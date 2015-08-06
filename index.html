@@ -8,3 +8,13 @@ title:  '移动开发在线分享'
 <p class="lead">
   移动开发在线分享站
 </p>
+<div>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+</div>
