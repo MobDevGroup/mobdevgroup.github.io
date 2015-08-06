@@ -3,16 +3,15 @@ layout: default
 title:  '移动开发在线分享'
 ---
 
-<h1>Just Keep Sharing</h1>
+<h2>Just Keep Sharing</h2>
 <p class="lead">
   移动开发在线分享站
 </p>
 <div>
 <ul>
   {% for post in site.posts %}
-    <li>
+    <li class="lead">
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
