@@ -6,31 +6,31 @@
     <li ><a href="http://www.mobdevgroup.com">资源归档</a></li>
     {% endif %}
 
-    {% if {{page.path}} == 'DevTools' %}
+    {% if {{page.path}} contains 'DevTools' %}
     <li class="active"><a href="/DevTools">开发工具资源</a></li>
     {% else %}
     <li><a href="/DevTools">开发工具资源</a></li>
     {% endif %}
 
-    {% if {{page.path}} == 'MobDesign' %}
+    {% if {{page.path}} contains 'MobDesign' %}
     <li class="active"><a href="/MobDesign">移动设计资源</a></li>
     {% else %}
     <li><a href="/MobDesign">移动设计资源</a></li>
     {% endif %}
 
-    {% if {{page.path}} == 'AndroidResources' %}
+    {% if {{page.path}} contains 'AndroidResources' %}
     <li class="active"><a href="/AndroidResources">Android资源</a></li>
     {% else %}
     <li><a href="/AndroidResources">Android资源</a></li>
     {% endif %}
 
-    {% if {{page.path}} == 'IOSResources' %}
+    {% if {{page.path}} contains 'IOSResources' %}
     <li class="active"><a href="/IOSResources">IOS资源</a></li>
     {% else %}
     <li><a href="/IOSResources">IOS资源</a></li>
     {% endif %}
 
-    {% if {{page.path}} == 'Html5Resources' %}
+    {% if {{page.path}} contains 'Html5Resources' %}
     <li class="active"><a href="/Html5Resources">Html5资源</a></li>
     {% else %}
     <li><a href="/Html5Resources">Html5资源</a></li>
