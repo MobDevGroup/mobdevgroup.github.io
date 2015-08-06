@@ -21,18 +21,8 @@
           </button>
           <a class="navbar-brand" href="{{ site.path }}">{{ site.title }}</a>
         </div>
-        <div id="navbar" class="collapse navbar-collapse">
-          <ul class="nav navbar-nav">
-            <li class="active"><a href="http://www.mobdevgroup.com">资源归档</a></li>
-            <li><a href="/DevTools">开发工具资源</a></li>
-            <li><a href="#">移动设计资源</a></li>
-            <li><a href="#">Android资源</a></li>
-            <li><a href="#">IOS资源</a></li>
-            <li><a href="#">Html5资源</a></li>
-            <li><a href="#">项目管理</a></li>
-            <li><a href="#">关于我们</a></li>
-          </ul>
-        </div><!--/.nav-collapse -->
+        {% include navbar.html %}
+        <!--/.nav-collapse -->
       </div>
     </nav>
 
