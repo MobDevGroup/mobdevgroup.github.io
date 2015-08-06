@@ -36,7 +36,16 @@
     <li><a href="/Html5Resources">Html5资源</a></li>
     {% endif %}
 
+    {% if {{page.path}} contains 'project-manage' %}
+    <li class="active"><a href="#">项目管理</a></li>
+    {% else %}
     <li><a href="#">项目管理</a></li>
+    {% endif %}
+
+    {% if {{page.path}} contains 'about-us' %}
+    <li class="active"><a href="#">关于我们</a></li>
+    {% else %}
     <li><a href="#">关于我们</a></li>
+    {% endif %}
   </ul>
 </div>
