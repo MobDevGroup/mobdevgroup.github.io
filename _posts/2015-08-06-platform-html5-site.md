@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  'Html5开发网站'
 permalink: 'platform/html5/resources'
 ---

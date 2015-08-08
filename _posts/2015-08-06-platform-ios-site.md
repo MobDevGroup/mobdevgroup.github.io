@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  'IOS开发网站'
 permalink: 'platform/ios/resources'
 ---

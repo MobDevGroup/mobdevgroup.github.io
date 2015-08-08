@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  'Html5开源库'
 permalink: 'platform/html5/library'
 ---

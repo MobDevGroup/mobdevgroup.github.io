@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  'IOS开源库'
 permalink: 'platform/ios/library'
 ---

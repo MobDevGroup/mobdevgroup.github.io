@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  'Android个人开发者博客'
 permalink: 'platform/android/blog'
 ---

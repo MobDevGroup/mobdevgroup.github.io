@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  'Android技术博文'
 permalink: 'platform/android/article'
 ---

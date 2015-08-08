@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  '项目管理'
 permalink: 'project/manage'
 ---

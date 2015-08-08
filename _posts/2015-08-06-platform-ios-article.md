@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  'IOS技术博文'
 permalink: 'platform/ios/article'
 ---

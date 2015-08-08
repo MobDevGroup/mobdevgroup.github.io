@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  '网络编程'
 permalink: 'project/network'
 ---
