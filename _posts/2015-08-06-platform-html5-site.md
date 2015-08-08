@@ -1,7 +1,7 @@
 ---
 layout: default
-title:  'IOS开发网站'
-permalink: 'platform/ios/resources'
+title:  'Html5开发网站'
+permalink: 'platform/html5/resources'
 ---
 
-## IOS开发网站
+## Html5开发网站
