@@ -28,9 +28,12 @@
     </nav>
 
     <div class="container">
+      <div class="row row-offcanvas row-offcanvas-right">
+        <div class="col-xs-12 col-sm-9">
       <div class="content">
         {{ content }}
       </div>
+
       <!-- 多说评论框 start -->
   	<div class="ds-thread" data-thread-key="<%= post.layout %>-<%= post.slug %>" data-title="<%= post.title %>" data-url="<%= page.permalink %>"></div>
   <!-- 多说评论框 end -->
@@ -47,6 +50,22 @@
   	})();
   	</script>
   <!-- 多说公共JS代码 end -->
+    </div>
+    </div>
+      <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
+          <div class="list-group">
+            <a href="#" class="list-group-item active">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+            <a href="#" class="list-group-item">Link</a>
+          </div>
+        </div>
     </div><!-- /.container -->
 
     <footer style="width:100%;text-align:center">© 2015-2015 移动开发在线分享站 Powered by <a href="http://www.yuxingxin.com">yuxingxin.com</a></footer>
