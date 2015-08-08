@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  '项目管理'
-permalink: 'project/manage'
+permalink: 'development/manage'
 ---
 
 ## 项目管理
