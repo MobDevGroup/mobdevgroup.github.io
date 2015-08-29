@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Html5个人开发者博客'
+title:  'Html5开发者博客'
 permalink: 'platform/html5/blog'
 ---
 
-## Html5个人开发者博客
+## Html5开发者博客

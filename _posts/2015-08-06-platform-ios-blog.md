@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'IOS个人开发者博客'
+title:  'IOS开发者博客'
 permalink: 'platform/ios/blog'
 ---
 
-## IOS个人开发者博客
+## IOS开发者博客

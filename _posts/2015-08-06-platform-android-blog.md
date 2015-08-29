@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Android个人开发者博客'
+title:  'Android开发者博客'
 permalink: 'platform/android/blog'
 ---
 
-## Android个人开发者博客
+## Android开发者博客
