@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'Android官方设计'
+title:  'Android设计指南'
 permalink: 'design/android'
 ---
 
-## Android官方设计
+## Android设计指南

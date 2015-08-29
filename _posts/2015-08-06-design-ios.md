@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'IOS官方设计'
+title:  'IOS设计指南'
 permalink: 'design/ios'
 ---
 
-## IOS官方设计
+## IOS设计指南
