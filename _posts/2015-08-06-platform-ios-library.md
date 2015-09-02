@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'IOS开源库'
+title:  'iOS开源库'
 permalink: 'platform/ios/library'
 ---
 
-## IOS开源库
+## iOS开源库

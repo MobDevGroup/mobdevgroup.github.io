@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  'IOS技术博文'
+title:  'iOS技术博文'
 permalink: 'platform/ios/article'
 ---
 
-## IOS技术博文
+## iOS技术博文
