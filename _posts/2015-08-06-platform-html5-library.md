@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Html5开源库'
+title:  'HTML5开源库'
 permalink: 'platform/html5/library'
 ---
 

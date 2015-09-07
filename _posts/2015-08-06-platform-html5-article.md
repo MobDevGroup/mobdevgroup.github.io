@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Html5技术博文'
+title:  'HTML5技术博文'
 permalink: 'platform/html5/article'
 ---
 

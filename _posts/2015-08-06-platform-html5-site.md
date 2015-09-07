@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Html5开发网站'
+title:  'HTML5开发网站'
 permalink: 'platform/html5/resources'
 ---
 

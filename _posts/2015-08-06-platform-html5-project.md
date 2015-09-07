@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Html5开源项目'
+title:  'HTML5开源项目'
 permalink: 'platform/html5/project'
 ---
 
