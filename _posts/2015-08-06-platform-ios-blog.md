@@ -304,7 +304,15 @@ https://twitter.com/TwitterOSS
 > * GitHub：https://github.com/casatwy
 > * WeiBo：http://weibo.com/casatwy
 
-### [更多国内iOS开发者列表](https://github.com/tangqiaoboy/iOSBlogCN)
+## 附录
+> * GitHub[组织排行榜](http://githubranking.com/organizations)
+> * GitHub[开发者排行榜](http://githubranking.com/users)
+> * GitHub[中国开发者排行榜](http://githubrank.com/)
+> * [更多国内iOS开发者列表](https://github.com/tangqiaoboy/iOSBlogCN)
+
+### 最后
+欢迎自荐和推荐优秀的开发者博客。
+
 
 ### 最后
 欢迎自荐和推荐优秀的开发者博客。

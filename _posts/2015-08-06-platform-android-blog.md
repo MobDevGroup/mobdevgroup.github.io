@@ -7,49 +7,49 @@ permalink: 'platform/android/blog'
 ## Android开发者博客
 > 关注优秀开发者第一时间获取最新分享的技术博文
 
- ### 组织
+### 组织
 
- * ### [Google](https://developers.google.com/)
- > * site：http://developer.android.com/
- > * blog：http://android-developers.blogspot.com/
- > * GitHub：https://github.com/google
- > * twitter：https://twitter.com/AndroidDev
+* ### [Google](https://developers.google.com/)
+> * site：http://developer.android.com/
+> * blog：http://android-developers.blogspot.com/
+> * GitHub：https://github.com/google
+> * twitter：https://twitter.com/AndroidDev
 
- * ### [facebook](https://developers.facebook.com/)
- > * site：https://code.facebook.com/projects/
- > * blog：https://developers.facebook.com/blog/?ref=ft
- > * GitHub：https://github.com/facebook
- > * twitter：https://twitter.com/fbplatform    https://twitter.com/fbOpenSource
+* ### [facebook](https://developers.facebook.com/)
+> * site：https://code.facebook.com/projects/
+> * blog：https://developers.facebook.com/blog/?ref=ft
+> * GitHub：https://github.com/facebook
+> * twitter：https://twitter.com/fbplatform    https://twitter.com/fbOpenSource
 
- * ### [Square](http://square.github.io)
- > * site：http://square.github.io
- > * blog：https://corner.squareup.com/
- > * GitHub：https://github.com/square
- > * twitter：https://twitter.com/SquareEng  
+* ### [Square](http://square.github.io)
+> * site：http://square.github.io
+> * blog：https://corner.squareup.com/
+> * GitHub：https://github.com/square
+> * twitter：https://twitter.com/SquareEng  
 
- * ### [twitter](https://dev.twitter.com/)
- > * site：https://engineering.twitter.com/opensource
- > * blog：https://blog.twitter.com/engineering
- > * GitHub：https://github.com/twitter
- > * twitter：https://twitter.com/TwitterDev
- https://twitter.com/TwitterOSS
+* ### [twitter](https://dev.twitter.com/)
+> * site：https://engineering.twitter.com/opensource
+> * blog：https://blog.twitter.com/engineering
+> * GitHub：https://github.com/twitter
+> * twitter：https://twitter.com/TwitterDev
+https://twitter.com/TwitterOSS
 
- * ### [GitHub](https://developer.github.com/)
- > * site：https://developer.github.com/
- > * blog：https://developer.github.com/changes/
- > * GitHub：https://github.com/github
- > * twitter：https://twitter.com/GitHubEng
+* ### [GitHub](https://developer.github.com/)
+> * site：https://developer.github.com/
+> * blog：https://developer.github.com/changes/
+> * GitHub：https://github.com/github
+> * twitter：https://twitter.com/GitHubEng
 
- * ### [阿里巴巴](http://developer.alibaba.com/)
- > * site：http://developer.alibaba.com/
- > * blog：https://developer.github.com/changes/
- > * GitHub：https://github.com/alibaba
+* ### [阿里巴巴](http://developer.alibaba.com/)
+> * site：http://developer.alibaba.com/
+> * blog：https://developer.github.com/changes/
+> * GitHub：https://github.com/alibaba
 
- * ### [美团](http://tech.meituan.com/)
- > * blog：http://tech.meituan.com/
- > * GitHub：https://github.com/meituan
+* ### [美团](http://tech.meituan.com/)
+> * blog：http://tech.meituan.com/
+> * GitHub：https://github.com/meituan
 
- * ### [Flipboard](https://github.com/Flipboard)
+* ### [Flipboard](https://github.com/Flipboard)
 
 ### 个人(国外开发者)
 * ### Jake Wharton
@@ -296,6 +296,10 @@ permalink: 'platform/android/blog'
 > * GitHub[组织排行榜](http://githubranking.com/organizations)
 > * GitHub[开发者排行榜](http://githubranking.com/users)
 > * GitHub[中国开发者排行榜](http://githubrank.com/)
+
+### 最后
+欢迎自荐和推荐优秀的开发者博客。
+
 
 ### 最后
 欢迎自荐和推荐优秀的开发者博客。
