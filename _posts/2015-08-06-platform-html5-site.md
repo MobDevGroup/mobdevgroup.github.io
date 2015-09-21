@@ -168,7 +168,7 @@ permalink: 'platform/html5/resources'
 * ### [RunJS](http://runjs.cn/)
 > 在线编辑、展示、分享、交流你的 JavaScript 代码
 
-* ### 开源社区
+### 开源社区
 * ### [GitHub](http://www.github.com/)
 > 越来越多喜欢开源的开发者聚集到这里。
 
