@@ -7,6 +7,9 @@ permalink: 'platform/ios/project'
 ## iOS开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [DesignerNewsApp](http://designcode.io)
+> Build a Swift App as a designer
+
 * ### [firefox-ios](https://github.com/mozilla/firefox-ios)
 > Firefox for iOS
 

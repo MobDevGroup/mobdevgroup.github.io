@@ -7,6 +7,9 @@ permalink: 'platform/html5/project'
 ## HTML5开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
+> A Zhihu Daily App client implemented using React Native for Android.
+
 * ### [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 > 用React Native写的Dribbble第三方客户端
 
