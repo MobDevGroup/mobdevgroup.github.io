@@ -115,6 +115,9 @@ permalink: 'platform/html5/library'
 * ### [getAccurateCurrentPosition](https://github.com/gwilson/getAccurateCurrentPosition)
 > Simple function to complements navigator.geolocation - spends more time fine tuning the location before replying
 
+* ### [react-native-background-geolocation](https://github.com/transistorsoft/react-native-background-geolocation)
+> Sophisticated, battery-conscious background-geolocation with motion-detection
+
 ### Sass
 * ### [sassCore](https://github.com/marvin1023/sassCore)
 > 一份基础的scss库，包括常用reset, mixin, grids, typo, css3, media queries等多个文件，是你sass开发的必备库

@@ -45,6 +45,9 @@ permalink: 'development/github'
 
 ### iOS部分
 
+* ### [iOSHackStudy](https://github.com/pandazheng/IosHackStudy)
+> IOS安全学习资料汇总
+
 * ### [Github-iOS备忘](http://github.ibireme.com/github/list/ios/)
 
 * ### [awesome-objc-frameworks](https://github.com/XCGit/awesome-objc-frameworks)
@@ -95,6 +98,12 @@ permalink: 'development/github'
 
 
 ### 其它部分
+
+* ### [Google-IPs](https://github.com/justjavac/Google-IPs)
+> Google 全球 IP 地址库
+
+* ### [translations](https://github.com/oldratlee/translations)
+> 一些不错英文资料的中文翻译。
 
 * ### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 
