@@ -87,6 +87,9 @@ permalink: 'design/site'
 * ### [icons8](https://icons8.com/)
 > 图标搜索库。
 
+* ### [MakeAppIcon](http://makeappicon.com/)
+> 用一张104X1024的icon图标，可以生成iOS平台和Android平台所需的各种尺寸icon
+
 ### 设计导航站
 * ### [设计网址导航](http://hao.zlg.cc/)
 > 搜集了大量的国内外设计网站，以及设计团队和设计公司。

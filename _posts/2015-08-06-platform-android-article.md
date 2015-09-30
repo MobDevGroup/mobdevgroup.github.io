@@ -34,7 +34,7 @@ permalink: 'platform/android/article'
 
 * #### [Android Fragment 真正的完全解析（下）](http://blog.csdn.net/lmj623565791/article/details/37970961)
 
-
+* #### [深入讲解Android中Activity launchMode](http://droidyue.com/blog/2015/08/16/dive-into-android-activity-launchmode/?comefrom=http://blogread.cn/news/)
 
 ### Service/BroadcastReceiver
 * #### [BroadcastReceiver应用详解](http://blog.csdn.net/liuhe688/article/details/6955668)
