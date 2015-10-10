@@ -45,6 +45,9 @@ permalink: 'development/github'
 
 ### iOS部分
 
+* ### [苹果AppStore被拒理由大全](https://whyreject.me)
+> 作者整理的一份App上架AppStore后被拒理由大全
+
 * ### [iOSHackStudy](https://github.com/pandazheng/IosHackStudy)
 > IOS安全学习资料汇总
 
@@ -98,6 +101,9 @@ permalink: 'development/github'
 
 
 ### 其它部分
+
+* ### [awesome-developer](https://github.com/phodal/awesome-developer)
+> Web Developer学习路线图
 
 * ### [Google-IPs](https://github.com/justjavac/Google-IPs)
 > Google 全球 IP 地址库

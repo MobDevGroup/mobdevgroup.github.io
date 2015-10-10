@@ -198,9 +198,10 @@ permalink: 'platform/html5/resources'
 
 ### Git文档
 
-  * ### [Pro Git（中文版）](http://git.oschina.net/progit/)
-  * ### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
-  * ### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
-  * ### [git - 简易指南](http://www.bootcss.com/p/git-guide/)
-  * ### [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
-  * ### [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
+* ### [Git系列教程](http://acoder.cc/git.html)
+* ### [Pro Git（中文版）](http://git.oschina.net/progit/)
+* ### [GitHub中文指南](http://www.worldhello.net/gotgithub/)
+* ### [Git官方指南中文版](http://git-scm.com/2010/06/09/pro-git-zh.html)
+* ### [git - 简易指南](http://www.bootcss.com/p/git-guide/)
+* ### [廖雪峰Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* ### [猴子都能懂的Git入门](http://backlogtool.com/git-guide/cn/)
