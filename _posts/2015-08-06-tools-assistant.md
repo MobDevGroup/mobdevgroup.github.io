@@ -117,6 +117,9 @@ permalink: 'tools/assistant'
 * ### [Balsamiq Mockups](https://balsamiq.com/)
 > 一款优秀的原型图绘制工具。
 
+* ### [Framer](http://framerjs.com/)
+> 产品原型设计
+
 * ### [墨刀](https://modao.cc/)
 > 免费的移动应用原型与线框图工具.
 
@@ -152,6 +155,5 @@ permalink: 'tools/assistant'
 > Cheat Sheets 列出所有的API，并且将API 按某种规则进行分类，然后点击某个API，会显示其具体的描述。
 
 ### 附录
-* ### Alfred Workflows
-[AlfredWorkflow.com](http://www.alfredworkflow.com/)
+* ### Alfred Workflows [AlfredWorkflow.com](http://www.alfredworkflow.com/)
 > 分享Alfred优秀实用的 Workflows
