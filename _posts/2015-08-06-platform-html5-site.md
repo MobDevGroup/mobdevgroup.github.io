@@ -8,6 +8,9 @@ permalink: 'platform/html5/resources'
 
 ### 工具站
 
+* ### [awesomes](http://www.awesomes.cn)
+> 提供前端Github库的归档和中文文档
+
 * ### [W3school](http://w3school.com.cn/)
 > 领先的 Web 技术教程，可供随时查阅。
 

@@ -25,3 +25,11 @@ permalink: 'development/manage'
 
 * ###  [worktile](https://worktile.com/)
 > 一个团队协同办公工具，通过简单的协作、沟通和分享，实现团队交互与任务管理的轻松协作。工作随身带，多平台、云数据，随时随地与团队一起工作，项目、任务、文件、讨论、文档、事件、活动流、通知和日历，一个都不能少。
+
+
+### 经验分享
+* ### [写给那些傻傻的，想做服务器开发的应届生](http://blog.devtang.com/blog/2015/10/07/why-fresh-wants-to-do-server-dev/)
+
+### 其他
+
+* ### [强迫症的 Mac 设置指南](https://github.com/macdao/ocds-guide-to-setting-up-mac)

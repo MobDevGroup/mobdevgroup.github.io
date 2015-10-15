@@ -8,6 +8,9 @@ permalink: 'development/github'
 
 ### Android部分
 
+* ### [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
+
+
 * ### [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)
 
 * ### [Android 开源项目 Demo](https://github.com/android-cn/android-open-project-demo)
@@ -90,6 +93,12 @@ permalink: 'development/github'
 
 ### 前端部分
 
+* ### [fetool](https://github.com/nieweidong/fetool)
+> 大前端工具资源集
+
+* ### [awesome-IoT-hybrid](https://github.com/weblancaster/awesome-IoT-hybrid)
+> The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
+
 * ### [front-end-collect](https://github.com/foru17/front-end-collect)
 
 * ### [react-native-guide](https://github.com/ele828/react-native-guide)
@@ -101,6 +110,18 @@ permalink: 'development/github'
 
 
 ### 其它部分
+
+* ### [ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade)
+> 非常棒的工具收集
+
+* ### [awesome-aws](https://github.com/donnemartin/awesome-aws)
+> A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.
+
+* ### [computer-science](https://github.com/open-source-society/computer-science)
+> 开源的社会大学在：自学计算机科学
+
+* ### [最流行的开源静态网站生成器](http://www.staticgen.com)
+> 最流行的开源静态网站生成器
 
 * ### [awesome-developer](https://github.com/phodal/awesome-developer)
 > Web Developer学习路线图
