@@ -7,6 +7,9 @@ permalink: 'platform/android/project'
 ## Android开源项目
 > 看优秀源码也是一种学习方法。
 
+* ### [GithubTrends](https://github.com/laowch/GithubTrends)
+> 一个用来看查看 Github 热门项目的 Android App, 遵循 Material Design。 
+
 * ### [Minimal-Todo](https://github.com/avjinder/Minimal-Todo)
 > Material To-Do App
 

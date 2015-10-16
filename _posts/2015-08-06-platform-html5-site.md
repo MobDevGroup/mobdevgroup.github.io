@@ -8,6 +8,9 @@ permalink: 'platform/html5/resources'
 
 ### 工具站
 
+* ### [Codelabs](http://www.code-labs.io/)
+> 谷歌代码学习指南
+
 * ### [awesomes](http://www.awesomes.cn)
 > 提供前端Github库的归档和中文文档
 
