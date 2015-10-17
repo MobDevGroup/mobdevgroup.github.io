@@ -9,7 +9,7 @@ permalink: 'platform/android/article'
 ### 架构
 * #### [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 
-* ### [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
+* #### [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
 
 ### 开发经验
 * #### [那份我期盼的简历](http://a.codekk.com/blogs/detail/5527375bd6459ae793499404)
@@ -35,6 +35,7 @@ permalink: 'platform/android/article'
 * #### [Android Fragment 真正的完全解析（下）](http://blog.csdn.net/lmj623565791/article/details/37970961)
 
 * #### [深入讲解Android中Activity launchMode](http://droidyue.com/blog/2015/08/16/dive-into-android-activity-launchmode/?comefrom=http://blogread.cn/news/)
+
 
 ### Service/BroadcastReceiver
 * #### [BroadcastReceiver应用详解](http://blog.csdn.net/liuhe688/article/details/6955668)
@@ -175,7 +176,7 @@ permalink: 'platform/android/article'
 * #### [性能优化系列总篇](http://www.trinea.cn/android/performance/)
 
 ### 其它
-* ### [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
+* #### [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 
 ### 最后
 更多分类和文章正在整理中。。。欢迎大伙自荐或者推荐优秀技术博文。
