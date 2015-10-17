@@ -63,8 +63,12 @@
   	})();
   	</script>
   <!-- 多说公共JS代码 end -->
+</div>
+    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
+      <div class="list-group">
+        <a href="#" class="list-group-item disabled">目录树</a>
+      </div>
     </div>
-    {% include sidebar.html %}
     </div>
 
     </div><!-- /.container -->
@@ -72,4 +76,19 @@
     <footer style="width:100%;text-align:center;margin:20px">© 2015-2015 移动开发在线分享站 Powered by <a href="http://www.yuxingxin.com">yuxingxin.com</a></footer>
 
 </body>
+<script type="text/javascript">
+$(document).ready(function(){
+      $("h2,h3,h4,h5,h6").each(function(i,item){
+        var tag = $(item).get(0).localName;
+        $(item).attr("id","wow"+i);
+        $("#sidebar").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');
+        $(".newh2").css("margin-left",0).css("font-size",18);
+        $(".newh3").css("margin-left",5).css("font-size",16);
+        $(".newh4").css("margin-left",20).css("font-size",14).css("color","#000000");
+        $(".newh5").css("margin-left",35).css("font-size",12).css("color","#000000");
+        $(".newh6").css("margin-left",50).css("font-size",12);
+      });
+ });
+</script>
+</script>
 </html>
