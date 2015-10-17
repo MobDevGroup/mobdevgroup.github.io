@@ -4,9 +4,7 @@ title:  'HTML5开发网站'
 permalink: 'platform/html5/resources'
 ---
 
-## HTML5资源站
-
-### 工具站
+### 资源工具站
 
 * #### [Codelabs](http://www.code-labs.io/)
 > 谷歌代码学习指南
