@@ -102,6 +102,12 @@ AndroidJUnitRunner、Espresso、UI Automator
 
 ### Android Studio插件
 
+* #### [ADBWIFI](https://github.com/layerlre/ADBWIFI)
+> 能够通过WiFi连接你的Android设备，无需USB连接线就可以来进行应用的安装与调试。
+
+* #### [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB)
+> IntelliJ/AndroidStudio插件：能够通过WiFi连接你的Android设备，无需USB连接线来进行应用的安装与调试。
+
 * #### [android-postfix-plugin](https://github.com/takahirom/android-postfix-plugin)
 > 可根据后缀快速完成代码，这个属于拓展吧，系统已经有这些功能，如sout、notnull等，这个插件在原有的基础上增添了一些新的功能
 

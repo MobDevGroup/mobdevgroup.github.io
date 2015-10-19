@@ -5,6 +5,10 @@ permalink: 'platform/html5/library'
 ---
 
 ### HTML5/前端开源库
+
+* #### [react-desktop](https://github.com/gabrielbull/react-desktop)
+> React UI Components for OS X El Capitan and Windows 10 
+
 * #### [Angular.js](https://angularjs.org/)
 >  a development platform for building mobile and desktop web applications.
 
