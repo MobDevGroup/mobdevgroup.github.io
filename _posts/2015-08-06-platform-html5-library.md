@@ -6,8 +6,11 @@ permalink: 'platform/html5/library'
 
 ### HTML5/前端开源库
 
+* #### [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
+A collection of simple tips to help up your jQuery game
+
 * #### [react-desktop](https://github.com/gabrielbull/react-desktop)
-> React UI Components for OS X El Capitan and Windows 10 
+> React UI Components for OS X El Capitan and Windows 10
 
 * #### [Angular.js](https://angularjs.org/)
 >  a development platform for building mobile and desktop web applications.

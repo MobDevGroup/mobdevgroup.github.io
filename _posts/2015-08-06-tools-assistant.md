@@ -170,3 +170,9 @@ permalink: 'tools/assistant'
 
 * #### [Yoink](http://eternalstorms.at/yoink/)
 > 让你在Mac上移动文件变得更容易
+
+* #### [MacPass](https://github.com/mstarke/MacPass)
+> A native OS X KeePass client
+
+* #### [CotEditor](https://github.com/coteditor/CotEditor)
+> Lightweight Plain-Text Editor for OS X 

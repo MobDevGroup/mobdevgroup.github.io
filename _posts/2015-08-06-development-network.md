@@ -5,6 +5,11 @@ permalink: 'development/network'
 ---
 
 ### 网络编程
+
+* #### [REST API 安全设计指南](http://blog.nsfocus.net/rest-api-design-safety/?comefrom=http://blogread.cn/news/)
+
+* #### [使用 AngularJS & NodeJS 实现基于 token 的认证应用](http://zhuanlan.zhihu.com/FrontendMagazine/19920223)
+
 * #### [http-api-design](https://github.com/interagent/http-api-design)
 > HTTP API 设计指南
 
