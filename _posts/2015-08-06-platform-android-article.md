@@ -7,14 +7,14 @@ permalink: 'platform/android/article'
 ## Android技术博文
 
 ### 架构
-* #### [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html){:target="_blank"}
+* #### [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 
-* #### [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109){:target="_blank"}
+* #### [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
 
-* #### [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605){:target="_blank"}
-* #### [Android项目重构之路:界面篇](http://keeganlee.me/post/android/20150619){:target="_blank"}
-* #### [Android项目重构之路:实现篇](http://keeganlee.me/post/android/20150629){:target="_blank"}
-* #### [项目源码地址](https://github.com/keeganlee/kandroid){:target="_blank"}
+* #### [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
+* #### [Android项目重构之路:界面篇](http://keeganlee.me/post/android/20150619)
+* #### [Android项目重构之路:实现篇](http://keeganlee.me/post/android/20150629)
+* #### [项目源码地址](https://github.com/keeganlee/kandroid)
 
 ### 开发经验
 * #### [给Android程序员的一些面试建议](http://blog.csdn.net/singwhatiwanna/article/details/49230997)
