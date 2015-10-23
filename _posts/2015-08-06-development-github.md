@@ -122,6 +122,9 @@ permalink: 'development/github'
 
 ### 其它部分
 
+* #### [badges](https://github.com/boennemann/badges)
+> 与JS相关的免费开源的readme角标集合
+
 * #### [awesome-osx-command-line](https://github.com/herrbischoff/awesome-osx-command-line)
 > Use your OS X terminal shell to do awesome things.
 
