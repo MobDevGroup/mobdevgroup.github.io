@@ -1,98 +1,56 @@
 <!DOCTYPE html>
-<html>
-<head>
-   <meta charset="utf-8">
-   <title>{{ page.title }} - {{ site.title }}</title>
+<html lang="en">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    {% include header.html %}
+  </head>
+  <body>
 
-   <link href="{{ site.path }}/images/favicon.ico" mce_href="{{ site.path }}/images/favicon.ico" rel="bookmark" type="image/x-icon" />
-  <link href="{{ site.path }}/images/favicon.ico" mce_href="{{ site.path }}/images/favicon.ico" rel="icon" type="image/x-icon" />
-  <link href="{{ site.path }}/images/favicon.ico" mce_href="{{ site.path }}/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <!-- Docs master nav -->
+    {% include nav-main.html %}
 
-   <link rel="stylesheet" type="text/css" href="{{ site.path }}/css/style.css" >
-   <script src="{{ site.path }}/js/jquery-1.11.3.min.js"></script>
-   <script src="{{ site.path }}/js/bootstrap.min.js"></script>
-   <script>
-   var _hmt = _hmt || [];
-   (function() {
-     var hm = document.createElement("script");
-     hm.src = "//hm.baidu.com/hm.js?1baef511ec02b161828057e1662b0a67";
-     var s = document.getElementsByTagName("script")[0];
-     s.parentNode.insertBefore(hm, s);
-   })();
-   </script>
-
-   <script>window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"slide":{"type":"slide","bdImg":"5","bdPos":"right","bdTop":"100"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
-</head>
-<body>
-  <a href="https://github.com/MobDevGroup"><img style="position: absolute; top: 0; right: 0; border: 0;z-index: 9999" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
-  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <!-- Docs page layout -->
+    <div class="bs-header" id="content">
       <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="{{ site.path }}">{{ site.title }}</a>
-        </div>
-        {% include navbar.html %}
-        <!--/.nav-collapse -->
+        <h1>{{ page.title }}</h1>
+        <p>{{ page.lead }}</p>
       </div>
-    </nav>
+    </div>
 
-    <div class="container">
-      <div class="row row-offcanvas row-offcanvas-right">
-        <div class="col-xs-12 col-sm-9">
-      <div class="content">
-        {{ content }}
-      </div>
-      <!-- 多说评论框 start -->
-  	<div class="ds-thread" data-thread-key="{{page.permalink}}" data-title="{{page.title}}" data-url="{{ site.path }}/{{page.permalink}}"></div>
+    <div class="container bs-docs-container">
+
+      <div class="row">
+        <div class="col-md-9" role="main">
+          {{ content }}
+          <!-- 多说评论框 start -->
+    <div class="ds-thread" data-thread-key="{{page.permalink}}" data-title="{{page.title}}" data-url="{{ site.path }}/{{page.permalink}}"></div>
   <!-- 多说评论框 end -->
   <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
   <script type="text/javascript">
   var duoshuoQuery = {short_name:"mobdevgroup"};
-  	(function() {
-  		var ds = document.createElement('script');
-  		ds.type = 'text/javascript';ds.async = true;
-  		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-  		ds.charset = 'UTF-8';
-  		(document.getElementsByTagName('head')[0]
-  		 || document.getElementsByTagName('body')[0]).appendChild(ds);
-  	})();
-  	</script>
+    (function() {
+      var ds = document.createElement('script');
+      ds.type = 'text/javascript';ds.async = true;
+      ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
+      ds.charset = 'UTF-8';
+      (document.getElementsByTagName('head')[0]
+       || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    </script>
   <!-- 多说公共JS代码 end -->
-</div>
-    <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar">
-      <div class="list-group">
-        <a href="#" class="list-group-item disabled">目录树</a>
+        </div>
+
+        <div class="col-md-3">
+          <div class="bs-sidebar hidden-print" role="complementary">
+            <ul class="nav bs-sidenav">
+                <!-- auto gen -->
+            </ul>
+          </div>
+        </div>
       </div>
+
     </div>
-    </div>
 
-    </div><!-- /.container -->
-
-    <footer style="width:100%;text-align:center;margin:20px">© 2015-2015 移动开发在线分享站 Powered by <a href="http://www.yuxingxin.com">yuxingxin.com</a></footer>
-
-</body>
-<script type="text/javascript">
-$(document).ready(function(){
-      $("h2,h3,h4,h5,h6").each(function(i,item){
-        var tag = $(item).get(0).localName;
-        $(item).attr("id","wow"+i);
-        $("#sidebar").append('<a class="new'+tag+'" href="#wow'+i+'">'+$(this).text()+'</a></br>');
-        $(".newh2").css("margin-left",0).css("font-size",18);
-        $(".newh3").css("margin-left",5).css("font-size",16);
-        $(".newh4").css("margin-left",20).css("font-size",14).css("color","#000000");
-        $(".newh5").css("margin-left",35).css("font-size",12).css("color","#000000");
-        $(".newh6").css("margin-left",50).css("font-size",12);
-      });
-
-      $("div.content a").each(function(){
-          $(this).attr('target', '_blank');
-      });
- });
-</script>
-</script>
+    {% include footer.html %}
+  </body>
 </html>

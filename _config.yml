@@ -1,4 +1,24 @@
-###########
+# Dependencies
+markdown:           kramdown
+pygments:           true
+
+# Permalinks
+permalink:          pretty
+
+# Server
+host:               172.0.0.1
+port:               8080
+baseurl:            /
+url:                http://localhost:8080
+encoding:           UTF-8
+
+# the excluded directoies
+exclude:            []
+
+# site information
+info:
+  site_name:        MobDevGroup
+
 # site.url, site.title
 
 title: 'MobDevGroup'
@@ -10,21 +30,45 @@ title: 'MobDevGroup'
 path: 'http://www.mobdevgroup.com'
 url:  'http://www.mobdevgroup.com'
 
+meta:
+  description:      "移动开发在线分享"
+  keywords:         "开发工具、Android、iOS、HTML5、设计、项目管理"
+  author:           "yuxingxin"
 
-########
-# more settings
+# multiple language
+language_default:   'cn'
 
-markdown: kramdown
+languages:          ["en", "cn"]
 
-sass:
-  sass_dir: css
-  style:    expanded
+# left navigation
+left_nav:
+  en:
+    title:          MobDevGroup
+    path:           /
+    items:
+      - path:       /page1
+        title:      "Another page"
+      - path:       /page2
+        title:      "Yet another page"
+  cn:
+    title:          "MobDevGroup"
+    path:           /cn
+    items:
+      - path:       /cn/page1
+        title:      "页面1"
+      - path:       /cn/page2
+        title:      "页面2"
 
+# right navigation
+right_nav:
+  - title:          English Version
+    url:            /
+  - title:          MobDevGroup
+    url:            /cn
+  - title:          Fork on Github
+    url:            https://github.com/mobdevgroup
 
-
-exclude:
-- README.md
-
-
-safe: true
-lsi: false
+# analytics account information, remember to change this.
+analytics:
+  google:
+    account:         
