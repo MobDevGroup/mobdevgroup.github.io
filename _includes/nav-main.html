@@ -1,0 +1,257 @@
+<a href="https://github.com/MobDevGroup"><img style="position: absolute; top: 0; right: 0; border: 0;z-index: 9999" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
+<header class="navbar navbar-static-top bs-docs-nav" role="banner">
+    <div class="container">
+        {% assign nav = site.left_nav[page.language] %}
+        <div class="navbar-header">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="{{ site.path }}">{{ site.title }}</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+  <ul class="nav navbar-nav">
+    {% if {{page.path}} contains 'index' %}
+    <li class="active"><a href="http://www.mobdevgroup.com">资源归档</a></li>
+    {% else %}
+    <li ><a href="http://www.mobdevgroup.com">资源归档</a></li>
+    {% endif %}
+<!--
+    {% if {{page.path}} contains 'dev-tools' %}
+    <li class="active"><a href="/DevTools">开发工具</a></li>
+    {% else %}
+    <li><a href="/DevTools">开发工具</a></li>
+    {% endif %}
+-->
+    {% if {{page.path}} contains 'tools' %}
+    <li class="active dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">开发工具 <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/tools/android">Android平台</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/tools/ios">iOS平台</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/tools/frontend">前端</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/tools/web">Web开发</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/tools/assistant">其他辅助工具</a></li>
+        </ul>
+    </li>
+    {% else %}
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">开发工具 <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/tools/android">Android平台</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/tools/ios">iOS平台</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/tools/frontend">前端</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/tools/web">Web开发</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/tools/assistant">其他辅助工具</a></li>
+        </ul>
+    </li>
+    {% endif %}
+
+<!--
+    {% if {{page.path}} contains 'mob-design' %}
+    <li class="active"><a href="/MobDesign">移动设计</a></li>
+    {% else %}
+    <li><a href="/MobDesign">移动设计</a></li>
+    {% endif %}
+-->
+    {% if {{page.path}} contains 'design' %}
+    <li class="active dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">移动设计 <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/design/android">Android设计指南</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/design/ios">iOS设计指南</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/design/site">移动设计资源站</a></li>
+        </ul>
+    </li>
+    {% else %}
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">移动设计 <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/design/android">Android设计指南</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/design/ios">iOS设计指南</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/design/site">移动设计资源站</a></li>
+        </ul>
+    </li>
+    {% endif %}
+
+<!--
+    {% if {{page.path}} contains 'android-resources' %}
+    <li class="active"><a href="/AndroidResources">Android</a></li>
+    {% else %}
+    <li><a href="/AndroidResources">Android</a></li>
+    {% endif %}
+-->
+    {% if {{page.path}} contains 'platform-android' %}
+    <li class="active dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Android <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/platform/android/resources">学习网站</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/android/blog">开发者博客</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/android/library">第三方开源库</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/android/project">开源项目</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/android/article">技术博文</a></li>
+        </ul>
+    </li>
+    {% else %}
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Android <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/platform/android/resources">学习网站</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/android/blog">开发者博客</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/android/library">第三方开源库</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/android/project">开源项目</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/android/article">技术博文</a></li>
+        </ul>
+    </li>
+    {% endif %}
+
+
+<!--
+    {% if {{page.path}} contains 'ios-resources' %}
+    <li class="active"><a href="/iOSResources">iOS</a></li>
+    {% else %}
+    <li><a href="/iOSResources">iOS</a></li>
+    {% endif %}
+-->
+    {% if {{page.path}} contains 'platform-ios' %}
+    <li class="active dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">iOS <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/platform/ios/resources">学习网站</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/ios/blog">开发者博客</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/ios/library">第三方开源库</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/ios/project">开源项目</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/ios/article">技术博文</a></li>
+        </ul>
+    </li>
+    {% else %}
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">iOS <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/platform/ios/resources">学习网站</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/ios/blog">开发者博客</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/ios/library">第三方开源库</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/ios/project">开源项目</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/ios/article">技术博文</a></li>
+        </ul>
+    </li>
+    {% endif %}
+
+<!--
+    {% if {{page.path}} contains 'html5-resources' %}
+    <li class="active"><a href="/Html5Resources">Html5</a></li>
+    {% else %}
+    <li><a href="/Html5Resources">Html5</a></li>
+    {% endif %}
+-->
+    {% if {{page.path}} contains 'platform-html5' %}
+    <li class="active dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HTML5 <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/platform/html5/resources">学习网站</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/html5/blog">开发者博客</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/html5/library">第三方开源库</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/html5/project">开源项目</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/html5/article">技术博文</a></li>
+        </ul>
+    </li>
+    {% else %}
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">HTML5 <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/platform/html5/resources">学习网站</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/html5/blog">开发者博客</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/html5/library">第三方开源库</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/html5/project">开源项目</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/platform/html5/article">技术博文</a></li>
+        </ul>
+    </li>
+    {% endif %}
+
+<!--
+    {% if {{page.path}} contains 'project-manage' %}
+    <li class="active"><a href="/ProjectManage">其他</a></li>
+    {% else %}
+    <li><a href="/ProjectManage">其他</a></li>
+    {% endif %}
+-->
+    {% if {{page.path}} contains 'development' %}
+    <li class="active dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">项目开发<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/development/github">GitHub资源集</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/development/manage">项目管理</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/development/network">网络编程</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/development/pattern">设计模式</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/development/algorithm">算法</a></li>
+        </ul>
+    </li>
+    {% else %}
+    <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">项目开发<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="/development/github">GitHub资源集</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/development/manage">项目管理</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/development/network">网络编程</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/development/pattern">设计模式</a></li>
+          <li role="separator" class="divider"></li>
+          <li><a href="/development/algorithm">算法</a></li>
+        </ul>
+    </li>
+    {% endif %}
+
+    {% if {{page.path}} contains 'about-site' %}
+    <li class="active"><a href="/AboutSite">关于本站</a></li>
+    {% else %}
+    <li><a href="/AboutSite">关于本站</a></li>
+    {% endif %}
+  </ul>
+</div>
+
+    </div>
+</header>
