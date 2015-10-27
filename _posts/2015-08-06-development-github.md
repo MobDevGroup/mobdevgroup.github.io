@@ -9,6 +9,8 @@ permalink: 'development/github'
 
 ### Android部分
 
+#### [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+
 #### [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
 
 #### [android相关的干货(文摘，名博，github等等)](https://github.com/openproject/AndroidDigest)

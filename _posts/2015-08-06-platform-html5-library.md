@@ -9,8 +9,11 @@ permalink: 'platform/html5/library'
 
 ### HTML5/前端开源库
 
+#### [code-push](https://github.com/Microsoft/code-push)
+> 一个微软开源的支持Cordova 和 React Native开发者直接部署Mobile App更新的云服务
+
 #### [jquery-tips-everyone-should-know](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
-A collection of simple tips to help up your jQuery game
+> A collection of simple tips to help up your jQuery game
 
 #### [react-desktop](https://github.com/gabrielbull/react-desktop)
 > React UI Components for OS X El Capitan and Windows 10
