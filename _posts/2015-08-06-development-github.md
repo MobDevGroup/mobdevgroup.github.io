@@ -125,6 +125,9 @@ permalink: 'development/github'
 
 ### 其它部分
 
+#### [Chrome开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
+> Chrome DevTools中文文档翻译
+
 #### [badges](https://github.com/boennemann/badges)
 > 与JS相关的免费开源的readme角标集合
 

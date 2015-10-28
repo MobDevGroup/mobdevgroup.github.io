@@ -9,6 +9,12 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [Dribbo](https://github.com/ikew0ng/Dribbo)
+> Dribbble客户端
+
+#### [Hide-Music-Player](https://github.com/w9xhc/Hide-Music-Player)
+> Hide音乐播放器
+
 #### [GEM](https://github.com/Substance-Project/GEM)
 > A music player for Android, in stunning Material Design.
 
