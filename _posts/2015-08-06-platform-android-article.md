@@ -21,6 +21,10 @@ permalink: 'platform/android/article'
 
 #### [项目源码地址](https://github.com/keeganlee/kandroid)
 
+### 设计
+
+#### [向产品宣战——开发者眼中的Android UI Design](http://blog.csdn.net/eclipsexys/article/details/46238889)
+
 ### 开发经验
 
 #### [给Android程序员的一些面试建议](http://blog.csdn.net/singwhatiwanna/article/details/49230997)
@@ -37,9 +41,9 @@ permalink: 'platform/android/article'
 
 #### [很少有人会告诉你的Android开发基本常识](http://www.jianshu.com/p/d6611c8bd45c?utm_campaign=maleskine&utm_content=note&utm_medium=pc_author_hots&utm_source=recommendation#)
 
-### 设计
+### 开发规范
 
-#### [向产品宣战——开发者眼中的Android UI Design](http://blog.csdn.net/eclipsexys/article/details/46238889)
+#### [Android技术积累:开发规范](http://keeganlee.me/post/android/20150709)
 
 ### 开发技巧
 
