@@ -9,6 +9,8 @@ permalink: 'development/github'
 
 ### Android部分
 
+#### [Tim9Liu9总结的Android开源项目及库](https://github.com/Tim9Liu9/TimLiu-Android)
+
 #### [learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
 
 #### [awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
@@ -124,6 +126,9 @@ permalink: 'development/github'
 
 
 ### 其它部分
+
+#### [WebsitesForStudents](https://github.com/Xuanwo/WebsitesForStudents)
+> 一个旨在建设一个对大学生有益有用的集合的库
 
 #### [Chrome开发者工具中文手册](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools)
 > Chrome DevTools中文文档翻译
