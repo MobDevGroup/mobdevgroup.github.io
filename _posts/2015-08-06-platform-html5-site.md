@@ -9,6 +9,12 @@ permalink: 'platform/html5/resources'
 
 ### 资源工具站
 
+#### [Front-end Developer Handbook](http://www.frontendhandbook.com/index.html)
+> 前端开发者手册
+
+#### [前端开发者手册](https://dwqs.gitbooks.io/frontenddevhandbook/content/)
+> 前端开发者手册翻译版
+
 #### [Codelabs](http://www.code-labs.io/)
 > 谷歌代码学习指南
 

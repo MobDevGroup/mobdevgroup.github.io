@@ -9,6 +9,12 @@ permalink: 'platform/html5/library'
 
 ### HTML5/前端开源库
 
+#### [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
+>前端开发者手册
+
+#### [fedHandlebook](https://github.com/dwqs/fedHandlebook)
+> 前端开发者手册
+
 #### [code-push](https://github.com/Microsoft/code-push)
 > 一个微软开源的支持Cordova 和 React Native开发者直接部署Mobile App更新的云服务
 
