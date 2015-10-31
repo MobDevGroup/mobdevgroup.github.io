@@ -9,6 +9,9 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native)
+> Hacker News iOS and Android App - Made with React Native.
+
 #### [JianDan-React-Native](https://github.com/w4lle/JianDan-React-Native)
 > Jiandan App client implemented using React Native for Android.
 
