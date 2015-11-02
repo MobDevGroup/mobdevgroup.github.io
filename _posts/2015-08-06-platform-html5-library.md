@@ -77,6 +77,12 @@ permalink: 'platform/html5/library'
 #### [famous](http://famous.org/)
 > 前端动画库：High-performance javascript library for animations & interfaces
 
+
+### 滑动
+
+#### [jquery.nicescroll](https://github.com/inuyaksa/jquery.nicescroll)
+> 一个类似iPhone/iPad的滑动条
+
 ### 音视频
 
 #### [video.js](http://www.videojs.com)

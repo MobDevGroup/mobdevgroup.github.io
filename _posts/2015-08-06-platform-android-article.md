@@ -23,6 +23,8 @@ permalink: 'platform/android/article'
 
 ### 设计
 
+#### [Android学习路线权威指南](http://blog.csdn.net/singwhatiwanna/article/details/49560409)
+
 #### [向产品宣战——开发者眼中的Android UI Design](http://blog.csdn.net/eclipsexys/article/details/46238889)
 
 ### 开发经验

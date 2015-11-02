@@ -9,6 +9,12 @@ permalink: 'platform/ios/project'
 
 ### 开源项目
 
+#### [phphub-ios](https://github.com/Aufree/phphub-ios)
+> PHPHub iOS客户端
+
+#### [高仿糯米](https://github.com/lookingstars/nuomi)
+> 高仿糯米
+
 #### [知乎日报](https://github.com/zpz1237/NirZhihuDaily2.0)
 > 用swift2.0实现的知乎日报iOS客户端
 

@@ -80,6 +80,12 @@ permalink: 'design/site'
 
 ### 图标
 
+#### [simple-icons](https://simpleicons.org)
+> 流行商标的SVG图标，开源库[地址](https://github.com/danleech/simple-icons)
+
+#### [ionicons](http://ionicons.com/)
+> 图标下载，开源库[地址](https://github.com/driftyco/ionicons)
+
 #### [easyicon](http://www.easyicon.net/)
 > 图标搜索下载网站。
 
