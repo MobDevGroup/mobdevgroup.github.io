@@ -217,7 +217,11 @@ permalink: 'platform/android/resources'
 #### [Coding](https://coding.net/user)
 > 国内一家代码托管平台，为软件开发者提供基于云计算技术的软件开发平台，包括项目管理，代码托管，运行空间和质量控制等等。
 
-### Git文档
+### Git相关
+
+#### [GitHub Training](https://training.github.com)
+
+#### [Git-it](http://jlord.us/git-it/)
 
 #### [Git系列教程](http://acoder.cc/git.html)
 
