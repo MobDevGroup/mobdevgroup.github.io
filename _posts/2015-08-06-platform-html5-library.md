@@ -9,6 +9,9 @@ permalink: 'platform/html5/library'
 
 ### HTML5/前端开源库
 
+#### [layer](http://layer.layui.com/)
+> web弹窗解决方案，开源库[地址](https://github.com/sentsin/layer)
+
 #### [front-end-handbook](https://github.com/FrontendMasters/front-end-handbook)
 >前端开发者手册
 
