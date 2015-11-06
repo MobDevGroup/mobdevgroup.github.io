@@ -9,6 +9,10 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [现代Web页面开发流程](http://insights.thoughtworkers.org/modern-ui-development-workflow/)
+
+#### [移动端前端开发真机调试攻略](http://www.anchengjian.com/post/3217ba_8c8e9f1)
+
 #### [前端工程之模块化](http://fex.baidu.com/blog/2014/03/fis-module/)
 
 #### [如何进行前端自动化测试](https://github.com/fouber/blog/issues/7)
