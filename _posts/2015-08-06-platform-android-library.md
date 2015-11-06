@@ -3,7 +3,7 @@ layout: post
 title:  'Android开源库'
 lead: "按模块整理Android开发过程中优秀的开源库"
 description: "软件架构、网络请求、事件总线、依赖注入、ORM、图片处理、数据解析、日志、测试、兼容库、UI、动画、缓存、插件化、多媒体（语音视频）、图形、地图定位、文字识别、工具类集、推送、即时通讯等"
-keywords: "开发工具、Android、iOS、HTML5、设计、项目管理"
+keywords: "MobDevGroup、开发工具、Android、iOS、HTML5、设计、项目管理"
 permalink: 'platform/android/library'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  '算法'
 lead: "整理常用算法"
 description: "常用算法"
-keywords: "算法实现、常用算法"
+keywords: "MobDevGroup、算法实现、常用算法"
 permalink: 'development/algorithm'
 ---
 

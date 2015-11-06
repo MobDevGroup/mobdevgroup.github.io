@@ -3,7 +3,7 @@ layout: post
 title:  'Android开发网站'
 lead: "整理Android开发论坛、社区、网站，以技术为主"
 description: "Android开发网站"
-keywords: "Android开发论坛、Android开发社区、Android网站"
+keywords: "MobDevGroup、Android开发论坛、Android开发社区、Android网站"
 permalink: 'platform/android/resources'
 ---
 

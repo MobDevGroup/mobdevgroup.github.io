@@ -3,7 +3,7 @@ layout: post
 title:  'iOS设计指南'
 lead: "官方设计指南"
 description: "iOS设计指南"
-keywords: "iOS设计、扁平化"
+keywords: "MobDevGroup、iOS设计、扁平化"
 permalink: 'design/ios'
 ---
 

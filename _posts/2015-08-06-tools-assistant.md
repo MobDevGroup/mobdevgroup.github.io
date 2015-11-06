@@ -3,7 +3,7 @@ layout: post
 title:  '辅助开发工具'
 lead: "移动开发周边工具"
 description: "移动开发周边工具"
-keywords: "项目管理工具、代码管理、版本管理、网络调试工具、MarkDown工具、建模、数据库设计、思维导图、产品原型设计、矢量图设计、团队协作"
+keywords: "MobDevGroup、项目管理工具、代码管理、版本管理、网络调试工具、MarkDown工具、建模、数据库设计、思维导图、产品原型设计、矢量图设计、团队协作"
 permalink: 'tools/assistant'
 ---
 
@@ -185,4 +185,4 @@ permalink: 'tools/assistant'
 > A native OS X KeePass client
 
 #### [CotEditor](https://github.com/coteditor/CotEditor)
-> Lightweight Plain-Text Editor for OS X 
+> Lightweight Plain-Text Editor for OS X

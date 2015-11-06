@@ -3,7 +3,7 @@ layout: post
 title:  'HTML5开发网站'
 lead: "整理前端/Html5开发论坛、社区、网站，以技术为主"
 description: "HTML5开发网站"
-keywords: "前端/Html5开发论坛、前端开发社区、前端开发网站"
+keywords: "MobDevGroup、前端/Html5开发论坛、前端开发社区、前端开发网站"
 permalink: 'platform/html5/resources'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  '网络编程'
 lead: "整理网络编程中常见协议、架构、api设计等等"
 description: "网络开发"
-keywords: "网络开发"
+keywords: "MobDevGroup、网络开发"
 permalink: 'development/network'
 ---
 

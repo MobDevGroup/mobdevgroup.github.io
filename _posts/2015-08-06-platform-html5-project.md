@@ -3,7 +3,7 @@ layout: post
 title:  'HTML5开源项目'
 lead: "整理第三方团体项目以及个人开发者项目，阅读别人的源码也是自我提升的一种方式"
 description: "HTML5开源项目"
-keywords: "HTML5开源项目、前端开源项目"
+keywords: "MobDevGroup、HTML5开源项目、前端开源项目"
 permalink: 'platform/html5/project'
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  'Android开源项目'
 lead: "整理官方Demo应用、第三方团体项目以及个人开发者项目，阅读别人的源码也是自我提升的一种方式"
 description: "Android开源项目"
-keywords: "Android开源项目"
+keywords: "MobDevGroup、Android开源项目"
 permalink: 'platform/android/project'
 ---
 

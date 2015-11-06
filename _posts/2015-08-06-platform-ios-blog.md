@@ -3,7 +3,7 @@ layout: post
 title:  'iOS开发者博客'
 lead: "整理国内外优秀开发者团体与个人开发者及其博客等，关注优秀开发者第一时间获取最新分享的技术博文"
 description: "iOS开发者博客"
-keywords: "iOS开发者博客"
+keywords: "MobDevGroup、iOS开发者博客"
 permalink: 'platform/ios/blog'
 ---
 

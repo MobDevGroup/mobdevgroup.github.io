@@ -3,7 +3,7 @@ layout: post
 title:  '设计模式'
 lead: "整理常用设计模式、实现、应用等"
 description: "设计模式"
-keywords: "设计模式"
+keywords: "MobDevGroup、设计模式"
 permalink: 'development/pattern'
 ---
 

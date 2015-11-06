@@ -3,7 +3,7 @@ layout: post
 title:  'Android开发工具'
 lead: "介绍Android开发工具及周边插件"
 description: "Android开发工具"
-keywords: "Android开发工具、Android Studio插件"
+keywords: "MobDevGroup、Android开发工具、Android Studio插件"
 permalink: 'tools/android'
 ---
 

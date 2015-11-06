@@ -3,7 +3,7 @@ layout: post
 title:  'iOS开发网站'
 lead: "整理iOS开发论坛、社区、网站，以技术为主"
 description: "iOS开发网站"
-keywords: "iOS开发论坛、iOS开发社区、iOS开发网站"
+keywords: "MobDevGroup、iOS开发论坛、iOS开发社区、iOS开发网站"
 permalink: 'platform/ios/resources'
 ---
 

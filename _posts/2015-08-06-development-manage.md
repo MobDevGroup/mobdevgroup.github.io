@@ -3,7 +3,7 @@ layout: post
 title:  '项目管理'
 lead: "整理项目开发过程中关于项目部署实施、团队协作等等相关"
 description: "项目开发"
-keywords: "项目部署、实施、团队协作"
+keywords: "MobDevGroup、项目部署、实施、团队协作"
 permalink: 'development/manage'
 ---
 

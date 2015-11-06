@@ -3,7 +3,7 @@ layout: post
 title:  '关于本站'
 lead: "移动开发在线分享"
 description: "移动开发在线分享站"
-keywords: "开发工具、Android、iOS、HTML5、设计、项目管理"
+keywords: "MobDevGroup、开发工具、Android、iOS、HTML5、设计、项目管理"
 permalink: 'AboutSite'
 ---
 

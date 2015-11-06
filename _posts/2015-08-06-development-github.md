@@ -3,7 +3,7 @@ layout: post
 title:  'GitHub资源集'
 lead: "整理GitHub上面分类的资料集合"
 description: "GitHub资源集"
-keywords: "GitHub、Awesome"
+keywords: "MobDevGroup、GitHub、Awesome"
 permalink: 'development/github'
 ---
 

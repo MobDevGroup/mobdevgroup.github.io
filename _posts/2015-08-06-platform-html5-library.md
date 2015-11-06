@@ -3,7 +3,7 @@ layout: post
 title:  'HTML5开源库'
 lead: "整理前端开发过程中优秀的开源库，并按模块归类：前端框架、跨平台技术、第三方js库等"
 description: "HTML5开源库"
-keywords: "前端框架、跨平台技术、第三方js库"
+keywords: "MobDevGroup、前端框架、跨平台技术、第三方js库"
 permalink: 'platform/html5/library'
 ---
 

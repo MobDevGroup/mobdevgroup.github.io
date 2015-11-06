@@ -3,7 +3,7 @@ layout: post
 title:  'Android设计指南'
 lead: "官方设计指南"
 description: "Android设计"
-keywords: "Android设计、Material Design"
+keywords: "MobDevGroup、Android设计、Material Design"
 permalink: 'design/android'
 ---
 

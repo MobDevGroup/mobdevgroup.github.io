@@ -3,7 +3,7 @@ layout: post
 title:  '移动设计资源站'
 lead: "主要是设计资源、素材等等，还有一些设计师常驻的论坛、社区、网站等等"
 description: "设计资源、素材"
-keywords: "设计资源、素材、设计社区、设计论坛、设计网站"
+keywords: "MobDevGroup、设计资源、素材、设计社区、设计论坛、设计网站"
 permalink: 'design/site'
 ---
 

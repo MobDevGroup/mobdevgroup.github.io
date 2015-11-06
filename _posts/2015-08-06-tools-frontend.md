@@ -3,7 +3,7 @@ layout: post
 title:  '前端开发工具'
 lead: "介绍JavaScript/HTML5等相关开发工具及插件"
 description: "前端开发工具"
-keywords: "JavaScript工具、HTML5开发工具、插件"
+keywords: "MobDevGroup、JavaScript工具、HTML5开发工具、插件"
 permalink: 'tools/frontend'
 ---
 

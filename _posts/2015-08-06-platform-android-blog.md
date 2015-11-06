@@ -3,7 +3,7 @@ layout: post
 title:  'Android开发者博客'
 lead: "整理国内外优秀开发者团体与个人开发者及其博客等，关注优秀开发者第一时间获取最新分享的技术博文"
 description: "Android开发者博客"
-keywords: "Android大神博客、社交账号、微博、twitter"
+keywords: "MobDevGroup、Android大神博客、社交账号、微博、twitter"
 permalink: 'platform/android/blog'
 ---
 
