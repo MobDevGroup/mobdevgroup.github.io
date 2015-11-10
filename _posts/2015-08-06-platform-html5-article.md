@@ -9,6 +9,8 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [给 JavaScript 初心者的 ES2015 实战](http://gank.io/post/564151c1f1df1210001c9161)
+
 #### [现代Web页面开发流程](http://insights.thoughtworkers.org/modern-ui-development-workflow/)
 
 #### [移动端前端开发真机调试攻略](http://www.anchengjian.com/post/3217ba_8c8e9f1)
