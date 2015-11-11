@@ -169,6 +169,9 @@ permalink: 'tools/assistant'
 
 ### 其它
 
+#### [alfred-workflows](https://github.com/willfarrell/alfred-workflows)
+> 给程序员的Alfred Workflows
+
 #### [Alfred Workflows](http://www.alfredworkflow.com/)
 > 分享Alfred优秀实用的 Workflows
 
