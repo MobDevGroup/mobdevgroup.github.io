@@ -9,6 +9,12 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [设计师该如何学习前端](http://mp.weixin.qq.com/s?__biz=MjM5MzA0OTkwMA==&mid=400639373&idx=2&sn=a784cb1887f8db0b7919abdbce660bf1&scene=0#wechat_redirect)
+
+#### [移动端点击、触碰随记](http://f2e.souche.com/blog/-yi-dong-duan-dian-ji-hong-peng-sui-ji/)
+
+#### [移动端自适应方案](http://f2e.souche.com/blog/yi-dong-duan-zi-gua-ying-fang-an/#clue)
+
 #### [Android开发技术周报特刊之React Native](http://www.androidweekly.cn/android-dev-special-weekly-react-native/)
 
 #### [给 JavaScript 初心者的 ES2015 实战](http://gank.io/post/564151c1f1df1210001c9161)

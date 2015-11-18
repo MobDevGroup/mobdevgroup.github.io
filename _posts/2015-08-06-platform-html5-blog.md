@@ -51,6 +51,8 @@ https://twitter.com/TwitterOSS
 
 #### [Flipboard](https://github.com/Flipboard)
 
+#### [搜车网前端团队](http://f2e.souche.com/blog/)
+
 ### 个人
 
 #### 阮一峰

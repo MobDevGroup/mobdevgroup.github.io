@@ -9,6 +9,9 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [DoubanMovie-React-Native](https://github.com/fengjundev/DoubanMovie-React-Native)
+> 豆瓣电影客户端
+
 #### [ioniclub](https://github.com/IonicChina/ioniclub)
 > Ionichina社区客户端，采用Ionic Framework开发
 
