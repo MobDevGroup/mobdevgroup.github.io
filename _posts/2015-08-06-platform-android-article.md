@@ -13,6 +13,8 @@ permalink: 'platform/android/article'
 
 #### [浅谈 MVP in Android](http://blog.csdn.net/lmj623565791/article/details/46596109)
 
+#### [App工程结构搭建：几种常见Android代码架构分析](http://www.uml.org.cn/mobiledev/201310211.asp)
+
 #### [Android项目重构之路:架构篇](http://keeganlee.me/post/android/20150605)
 
 #### [Android项目重构之路:界面篇](http://keeganlee.me/post/android/20150619)
@@ -184,6 +186,10 @@ permalink: 'platform/android/article'
 #### [Android多点触控技术实战，自由地对图片进行缩放和移动](http://blog.csdn.net/guolin_blog/article/details/11100327)
 
 ### 性能优化
+
+#### [用 LeakCanary 检测内存泄漏](https://realm.io/cn/news/droidcon-ricau-memory-leaks-leakcanary/)
+
+#### [10 条提升 Android 性能的建议](https://realm.io/cn/news/droidcon-farber-improving-android-app-performance/)
 
 #### [Android中Handler引起的内存泄露](http://droidyue.com/blog/2014/12/28/in-android-handler-classes-should-be-static-or-leaks-might-occur/)
 
