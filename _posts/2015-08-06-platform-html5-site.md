@@ -9,6 +9,9 @@ permalink: 'platform/html5/resources'
 
 ### 资源工具站
 
+#### [前端资源汇总](http://collect.w3ctrain.com/)
+> 前端收藏夹
+
 #### [Front-end Developer Handbook](http://www.frontendhandbook.com/index.html)
 > 前端开发者手册
 
@@ -60,6 +63,9 @@ permalink: 'platform/html5/resources'
 
 #### [px转em](http://pxtoem.com/)
 > 单位换算
+
+#### [知识WIKI](http://wiki.jikexueyuan.com/)
+> 汇集各种技术的wiki指南
 
 ### 国内前端站
 
