@@ -9,6 +9,8 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [JavaScript 资源大全中文版](http://gold.xitu.io/entry/5677d34700b0bf37ccc8f431)
+
 #### [适用于小团队的前端规范](http://front-end-standards.com/)
 
 #### [React-Native入门指南](https://github.com/vczero/react-native-lession)
