@@ -9,6 +9,9 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [我眼中的前端框架jQuery，Angular，React，Vue——以及我看前端架构
+](http://weibo.com/p/1001603924826640228007)
+
 #### [JavaScript 资源大全中文版](http://gold.xitu.io/entry/5677d34700b0bf37ccc8f431)
 
 #### [适用于小团队的前端规范](http://front-end-standards.com/)

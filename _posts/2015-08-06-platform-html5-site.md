@@ -224,6 +224,8 @@ permalink: 'platform/html5/resources'
 
 ### Git文档
 
+#### [Pro Git 2](http://git-scm.com/book/zh/v2)
+
 #### [Git与GitHub入门基础视频](http://www.nowcoder.com/courses/2)
 
 #### [GitHub Training](https://training.github.com)
