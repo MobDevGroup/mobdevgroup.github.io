@@ -9,6 +9,9 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [Favicon Generator](http://realfavicongenerator.net/)
+> icon Generator
+
 #### [优界网](http://97ui.com/)
 > UI设计师灵感库
 
