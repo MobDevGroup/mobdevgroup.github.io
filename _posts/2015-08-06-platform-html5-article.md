@@ -9,6 +9,8 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [Hybrid APP架构设计思路](http://segmentfault.com/a/1190000004263182)
+
 #### [我眼中的前端框架jQuery，Angular，React，Vue——以及我看前端架构
 ](http://weibo.com/p/1001603924826640228007)
 
