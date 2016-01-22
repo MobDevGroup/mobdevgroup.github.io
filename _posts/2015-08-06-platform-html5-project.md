@@ -9,6 +9,9 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [Vue-cnodejs](https://github.com/shinygang/Vue-cnodejs)
+> 基于vue.js重写Cnodejs.org社区的webapp
+
 #### [DoubanMovie-React-Native](https://github.com/fengjundev/DoubanMovie-React-Native)
 > 豆瓣电影客户端
 

@@ -9,6 +9,8 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [响应式设计简易指南](http://geekplux.com/grid/)
+
 #### [Hybrid APP架构设计思路](http://segmentfault.com/a/1190000004263182)
 
 #### [我眼中的前端框架jQuery，Angular，React，Vue——以及我看前端架构
