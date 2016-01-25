@@ -9,6 +9,8 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [前端远程调试](http://segmentfault.com/a/1190000004322742)
+
 #### [响应式设计简易指南](http://geekplux.com/grid/)
 
 #### [Hybrid APP架构设计思路](http://segmentfault.com/a/1190000004263182)

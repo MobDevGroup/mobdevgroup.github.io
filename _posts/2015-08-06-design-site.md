@@ -9,6 +9,12 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [色彩搭配站](http://www.colorfavs.com/)
+> 优秀在线配色工具
+
+#### [Finda Photo](http://finda.photo/)
+> 找一张照片
+
 #### [Favicon Generator](http://realfavicongenerator.net/)
 > icon Generator
 
