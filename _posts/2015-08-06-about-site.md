@@ -57,6 +57,9 @@ permalink: 'AboutSite'
 
 ### 3.关于MobDevGroup
 * **微信订阅号**：MobDevGroup
+* **Android资源分享群**：104575056
+* **iOS资源分享群**：69080804
+* **移动前端资源分享群**：104575412
 * **微博**：[MobDevGroup](http://weibo.com/mobdevgroup)
 * **GitHub**：[MobDevGroup](http://github.com/mobdevgroup)
 
