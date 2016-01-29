@@ -232,6 +232,12 @@
     </li>
     {% endif %}
 
+    {% if {{page.path}} contains 'subscribe' %}
+    <li class="active"><a href="/Subscribe">专题订阅</a></li>
+    {% else %}
+    <li><a href="/Subscribe">专题订阅</a></li>
+    {% endif %}
+
     {% if {{page.path}} contains 'about-site' %}
     <li class="active"><a href="/AboutSite">关于本站</a></li>
     {% else %}
