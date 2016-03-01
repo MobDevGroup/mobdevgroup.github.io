@@ -9,6 +9,9 @@ permalink: 'development/github'
 
 ### Android部分
 
+#### [Android-Dev-Favorites](https://github.com/ruijun/Android-Dev-Favorites)
+> Android开发资源合集
+
 #### [Awesome-Android-Architecture](https://github.com/Juude/Awesome-Android-Architecture/)
 > Android架构文章合集
 
