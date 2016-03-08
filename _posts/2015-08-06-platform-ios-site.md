@@ -150,6 +150,9 @@ permalink: 'platform/ios/resources'
 #### [代码审核服务](http://www.reviewcode.cn/)
 > 最高效的代码审核服务
 
+#### [每天发现一个好链接](http://admire.so/)
+> 每天发现一个好链接
+
 ### iOS学习站
 
 #### [CodePath iOS](http://guides.codepath.com/ios)

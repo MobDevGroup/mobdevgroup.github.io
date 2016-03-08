@@ -70,6 +70,9 @@ permalink: 'platform/html5/resources'
 #### [知识WIKI](http://wiki.jikexueyuan.com/)
 > 汇集各种技术的wiki指南
 
+#### [每天发现一个好链接](http://admire.so/)
+> 每天发现一个好链接
+
 ### 国内前端站
 
 #### [9秒社团](http://www.9miao.com/forum.php)

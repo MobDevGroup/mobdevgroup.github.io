@@ -9,6 +9,8 @@ permalink: 'development/network'
 
 ### 网络编程
 
+#### [在淘宝上买件东西，背后发生了什么？](http://blog.jobbole.com/98501/)
+
 #### [RESTful 架构风格概述](http://blog.igevin.info/posts/restful-architecture-in-general/)
 
 #### [jsonapi](http://jsonapi.org/)
