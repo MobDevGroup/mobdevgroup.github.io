@@ -9,6 +9,9 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [Uplabs](http://www.uplabs.com/)
+> 为开发者和设计师准备的每日UI资源
+
 #### [色彩搭配站](http://www.colorfavs.com/)
 > 优秀在线配色工具
 
