@@ -166,6 +166,9 @@ permalink: 'platform/android/resources'
 #### [Maven](http://maven.org/)
 > Maven远程仓库
 
+#### [Linux命令学习网站](http://explainshell.com/)
+> Linux命令学习网站
+
 ### Android源码站
 
 #### [codota](http://www.codota.com/)

@@ -75,6 +75,8 @@ permalink: 'development/manage'
 
 ### 经验分享
 
+#### [Travis CI - 项目持续集成好伴侣](http://swiftcafe.io/2016/03/18/travis/)
+
 #### [如何提升你的能力？给年轻程序员的几条建议](http://tech.glowing.com/cn/advices-to-junior-developers/)
 
 #### [怎么做好互联网公司的技术团队负责人？](http://www.jianshu.com/p/463528c4ec91)
