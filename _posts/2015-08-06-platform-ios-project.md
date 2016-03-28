@@ -9,6 +9,9 @@ permalink: 'platform/ios/project'
 
 ### 开源项目
 
+#### [V2ex-Swift](https://github.com/Finb/V2ex-Swift)
+> swift实现的v2ex第三方客户端
+
 #### [v2ex-OC](https://github.com/misaka14/v2ex-OC)
 > OC实现的v2ex客户端
 
