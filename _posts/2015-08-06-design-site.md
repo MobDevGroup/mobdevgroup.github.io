@@ -9,6 +9,9 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [icomoon](https://icomoon.io/)
+> 提供矢量图Icon Font & SVG图标的一个网站
+
 #### [Uplabs](http://www.uplabs.com/)
 > 为开发者和设计师准备的每日UI资源
 
