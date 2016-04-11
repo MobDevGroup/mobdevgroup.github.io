@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [DMPlayer](https://github.com/dibakarece/DMPlayer)
+> Android音乐播放器
+
 #### [Idaily](https://github.com/liuguangqiang/Idaily)
 > 开源的第三方知乎日报客户端
 
