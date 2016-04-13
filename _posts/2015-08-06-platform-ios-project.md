@@ -9,6 +9,9 @@ permalink: 'platform/ios/project'
 
 ### 开源项目
 
+#### [EyepetizerApp](https://github.com/lyimin/EyepetizerApp)
+> 高仿开眼
+
 #### [V2ex-Swift](https://github.com/Finb/V2ex-Swift)
 > swift实现的v2ex第三方客户端
 
