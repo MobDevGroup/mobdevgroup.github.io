@@ -9,6 +9,12 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [DoubanFM](https://github.com/nekocode/murmur)
+> Murmur是一个带白噪声效果的豆瓣电台第三方客户端,采用 Kotlin / MVP / ReactiveX 进行构建.
+
+#### [AntennaPod](https://github.com/AntennaPod/AntennaPod)
+> A podcast manager for Android
+
 #### [DMPlayer](https://github.com/dibakarece/DMPlayer)
 > Android音乐播放器
 
