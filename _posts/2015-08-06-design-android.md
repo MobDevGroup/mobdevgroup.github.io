@@ -15,5 +15,8 @@ permalink: 'design/android'
 #### [Android官方设计指南](https://developer.android.com/intl/zh-cn/design/index.html)
 > 主要讲述Android平台UI设计准则，以及最新出的material design(材料设计)，建议所有的产品，设计，开发人员都看一下。
 
+#### [Material Design 中文版](http://www.apkbus.com/design/)
+> Material Design 严谨中文版
+
 #### [Material Design中文版](http://wiki.jikexueyuan.com/project/material-design/)
 > 由国内开发者翻译的中文版已上线。
