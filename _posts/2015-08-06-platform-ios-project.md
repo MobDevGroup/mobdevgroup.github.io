@@ -9,6 +9,9 @@ permalink: 'platform/ios/project'
 
 ### 开源项目
 
+#### [西窗烛](https://github.com/hustlzp/xichuangzhu-ios)
+> 西窗烛 iOS App
+
 #### [EyepetizerApp](https://github.com/lyimin/EyepetizerApp)
 > 高仿开眼
 

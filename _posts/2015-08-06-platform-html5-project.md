@@ -9,6 +9,9 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [f8app](https://github.com/fbsamples/f8app)
+> Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects.
+
 #### [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed)
 > 用React Native实现的GitHub客户端
 
