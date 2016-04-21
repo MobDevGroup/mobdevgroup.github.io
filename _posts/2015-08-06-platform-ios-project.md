@@ -9,6 +9,12 @@ permalink: 'platform/ios/project'
 
 ### 开源项目
 
+#### [冰与火之歌App](https://github.com/Vayn/asoiaf)
+> 冰与火之歌中文维基iOS App
+
+#### [iOS头条客户端](https://github.com/shenAlexy/MVVM)
+> MVVM架构的一次实践，重写iOS头条客户端
+
 #### [西窗烛](https://github.com/hustlzp/xichuangzhu-ios)
 > 西窗烛 iOS App
 
