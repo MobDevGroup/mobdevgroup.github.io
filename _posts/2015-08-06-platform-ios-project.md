@@ -9,6 +9,9 @@ permalink: 'platform/ios/project'
 
 ### 开源项目
 
+#### [producthunt-osx](https://github.com/producthunt/producthunt-osx)
+> Product Hunt For Mac 官方App
+
 #### [冰与火之歌App](https://github.com/Vayn/asoiaf)
 > 冰与火之歌中文维基iOS App
 
