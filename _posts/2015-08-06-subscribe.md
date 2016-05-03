@@ -18,7 +18,7 @@ permalink: 'Subscribe'
 
 ### 敬请关注
 
-#### 微博：[MobDevGroup](http://mobdevgroup.com)
+#### 微博：[MobDevGroup](http://weibo.com/mobdevgroup)
 
 #### QQ群：
 * Android开发群：104575056
