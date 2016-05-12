@@ -9,6 +9,8 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [构建单页Web应用](https://github.com/xufei/blog/issues/5)
+
 #### [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 
 #### [jQuery 基本原理](http://docs.huihoo.com/jquery/jquery-fundamentals/zh-cn/index.html)
