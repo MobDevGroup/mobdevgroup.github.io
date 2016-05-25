@@ -9,6 +9,8 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [我是这样学习前端的](https://github.com/icepy/_posts/issues/39)
+
 #### [构建单页Web应用](https://github.com/xufei/blog/issues/5)
 
 #### [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
