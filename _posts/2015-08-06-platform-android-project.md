@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [AndroidWeekly](https://github.com/mzule/AndroidWeekly)
+> AndroidWeekly.net第三方客户端
+
 #### [DiyCodeForAndroid](https://github.com/Yasic/DiyCodeForAndroid)
 > Diycode社区Android客户端
 
