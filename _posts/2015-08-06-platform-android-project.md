@@ -9,6 +9,24 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [MicroReader](https://github.com/YiuChoi/MicroReader)
+> 一个小而美的阅读客户端
+
+#### [GankGirl](https://github.com/gaolonglong/GankGirl)
+> RxJava+Retrofit+Glide构建的gank.io第三方客户端，包含妹子图和技术干货等。
+
+#### [WBZhiHuDailyPaper](https://github.com/chatwyn/WBZhiHuDailyPaper)
+> 高仿知乎日报
+
+#### [huaban](https://github.com/LiCola/huabanDemo)
+> MD版的花瓣网App
+
+#### [IPTVFree](https://github.com/michelelacorte/IPTVFree)
+> Simple IPTV
+
+#### [GanHuoIO](https://github.com/burgessjp/GanHuoIO)
+> 基于Gank.IO提供的API的第三方客户端
+
 #### [AndroidWeekly](https://github.com/mzule/AndroidWeekly)
 > AndroidWeekly.net第三方客户端
 
