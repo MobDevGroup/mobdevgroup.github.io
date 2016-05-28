@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [SeeWeather](https://github.com/xcc3641/SeeWeather)
+> 一款遵循Material Design风格的只看天气的APP。
+
 #### [MicroReader](https://github.com/YiuChoi/MicroReader)
 > 一个小而美的阅读客户端
 
