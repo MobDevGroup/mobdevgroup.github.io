@@ -9,6 +9,9 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [Google Fonts](https://fonts.google.com/)
+> Google开源的免费字体，需翻墙访问。
+
 #### [icomoon](https://icomoon.io/)
 > 提供矢量图Icon Font & SVG图标的一个网站
 
