@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [OhMyBiliBili](https://github.com/HotBitmapGG/OhMyBiliBili)
+> 莆田系高仿真哔哩哔哩动画客户端
+
 #### [JNote](https://github.com/Jhuster/JNote)
 > 一款支持部分Markdown语法的轻量级便签软件。
 
