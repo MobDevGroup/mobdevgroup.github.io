@@ -9,6 +9,40 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+
+#### [Gratisography](http://www.gratisography.com/)
+> 里面有很多时尚流行的照片，并且适合用在设计项目上。
+
+#### [PicJumbo](https://picjumbo.com/)
+> 提供免费个人和商业使用的图像，照片质量很不错，非常适合用在界面设计或其它项目上。
+
+#### [Life Of Pix](http://www.lifeofpix.com/)
+> 提供免费高清图像素材，并且无版权限制，图片多为欧洲景观。
+
+#### [Free Images](http://cn.freeimages.com/)
+> 里面很多适合平面设计师、网页设计师使用的图像素材.
+
+#### [IM Free](http://www.imcreator.com/free)
+> 提供搜索和分类目录，有人物、自然、艺术、生活、图标等分类网站。
+
+#### [别样](http://www.ssyer.com/)
+> 一群爱好摄影与旅行的人，愿意共享的图片.
+
+#### [Publicdomainarchive](http://publicdomainarchive.com/)
+> 目前已经有28万张免费高清图片供下载，网页设计师可以免费使用在你的设计项目上,每周都会更新.
+
+#### [New Old Stock](http://www.jianshu.com/p/517904f09f22)
+> 一些复古，古老，经典的照片网站,需翻墙.
+
+#### [Pexels](https://www.pexels.com/)
+> 提供免费图片的网站,有摄影和剪贴画.
+
+#### [Foter](http://foter.com/)
+> 超过3亿免费高清图片供用户使用.
+
+#### [Photo Pin](http://photopin.com/)
+> 一个图片搜索引擎，里面的图片来源于Flickr。
+
 #### [Google Fonts](https://fonts.google.com/)
 > Google开源的免费字体，需翻墙访问。
 
