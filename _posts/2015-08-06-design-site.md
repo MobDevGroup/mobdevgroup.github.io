@@ -106,6 +106,12 @@ permalink: 'design/site'
 #### [pttrns](http://pttrns.com/)
 > 国外App设计资源站。
 
+#### [Google Material Design Icon](https://design.google.com/icons/)
+> 谷歌官方Material Design 图标
+
+#### [Material Design Icon](https://materialdesignicons.com/)
+> Material Design Icon
+
 #### [materialup](http://www.materialup.com/)
 > 一个专门介绍Material Design的设计网站，里面有很多不错的关于MD的设计。
 
