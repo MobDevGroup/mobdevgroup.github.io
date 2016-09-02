@@ -9,8 +9,11 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [react-native-BabyHealth](https://github.com/liuhongjun719/react-native-BabyHealth-)
+> React native 创建的仿 “宝宝健康” app，实现Listview展示、收藏、跳到appstore、react-redux与redux-thunk的使用
+
 #### [嘎嘎商城客户端](https://github.com/jiangqqlmj/GaGaMall)
-> React Native开发嘎嘎商城客户端 
+> React Native开发嘎嘎商城客户端
 
 #### [maoyanFilm](https://github.com/yohnz/maoyanFilm)
 > React Native实现的猫眼App
