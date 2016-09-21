@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [Tuikan](https://github.com/homcin/Tuikan)
+> 「推看」是一款集知乎头条，美图，视频于一体的休闲阅读app。
+
 #### [Simplenote for Android](https://github.com/Automattic/simplenote-android)
 > Simplenote Android客户端
 
