@@ -249,6 +249,9 @@ permalink: 'tools/android'
 
 ### Android Studio插件
 
+#### [BorePlugin](https://github.com/boredream/BorePlugin)
+> Android Studio 自动生成布局代码插件,可以让你在Activity/Fragment中自动生成findViewById等布局相关初始化代码或者在Adapter中自动生成ViewHolder代码
+
 #### [DataBindingModelFormatter](https://github.com/Qixingchen/DataBindingModelFormatter)
 >  快速为Data Binding实体生成getter、setter函数
 
