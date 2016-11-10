@@ -249,6 +249,9 @@ permalink: 'tools/android'
 
 ### Android Studio插件
 
+#### [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
+> IntelliJ IDEA/Android Studio 翻译插件，支持中英互译、单词朗读 
+
 #### [BorePlugin](https://github.com/boredream/BorePlugin)
 > Android Studio 自动生成布局代码插件,可以让你在Activity/Fragment中自动生成findViewById等布局相关初始化代码或者在Adapter中自动生成ViewHolder代码
 

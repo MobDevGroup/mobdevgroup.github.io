@@ -9,6 +9,12 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [mdcc-client](https://github.com/Bob1993/mdcc-client)
+> a react-native client for mdcc
+
+#### [react-cnode](https://github.com/lzxb/react-cnode)
+> 基于webpack + react + react-router + redux + less + flex.css + ES6 的React版cnode社区
+
 #### [react-native-BabyHealth](https://github.com/liuhongjun719/react-native-BabyHealth-)
 > React native 创建的仿 “宝宝健康” app，实现Listview展示、收藏、跳到appstore、react-redux与redux-thunk的使用
 

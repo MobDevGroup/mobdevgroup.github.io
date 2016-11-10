@@ -75,6 +75,9 @@ permalink: 'platform/html5/resources'
 
 ### 国内前端站
 
+#### [前端导航网](http://jsdig.com/)
+> 前端导航网站
+
 #### [9秒社团](http://www.9miao.com/forum.php)
 > 国内比较火的跨平台HTML5开发者社区，涉及到的有跨平台移动应用开发引擎，开源游戏服务端框架，UI素材等等。
 
