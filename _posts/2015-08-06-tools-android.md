@@ -250,7 +250,7 @@ permalink: 'tools/android'
 ### Android Studio插件
 
 #### [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
-> IntelliJ IDEA/Android Studio 翻译插件，支持中英互译、单词朗读 
+> IntelliJ IDEA/Android Studio 翻译插件，支持中英互译、单词朗读
 
 #### [BorePlugin](https://github.com/boredream/BorePlugin)
 > Android Studio 自动生成布局代码插件,可以让你在Activity/Fragment中自动生成findViewById等布局相关初始化代码或者在Adapter中自动生成ViewHolder代码
@@ -425,6 +425,9 @@ permalink: 'tools/android'
 
 
 ### Apk反编译工具
+
+#### [DEGUARD](http://www.apk-deguard.com/)
+> 一个在线的APK反混淆工具
 
 #### [Android-Crack-Tool](https://github.com/Jermic/Android-Crack-Tool)
 > 一个Mac平台的编译/反编译工具,方便用户对Apk进行逆向分析,提供Apk信息查看功能.
