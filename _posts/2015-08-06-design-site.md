@@ -9,6 +9,9 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [Sketch REPO](https://sketchrepo.com/)
+> Sketch相关资源
+
 #### [ui-cloud](http://ui-cloud.com/browse/)
 > UI设计资源站
 

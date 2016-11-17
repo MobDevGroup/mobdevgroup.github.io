@@ -159,6 +159,15 @@ permalink: 'platform/html5/resources'
 
 ### 国外
 
+#### [CSS-TRICKS](https://css-tricks.com/)
+
+#### [Reddit-JavaScript](https://www.reddit.com/r/javascript/)
+> Reddit JS 版块
+
+#### [FrontEndFront](https://frontendfront.com/)
+
+#### [frontenddev周报订阅](http://frontenddevweekly.com/)
+
 #### [JavaScripting](https://www.javascripting.com/)
 > 一个收集全世界优秀的 client-side端 Javascript 库、框架、插件的网站。
 
