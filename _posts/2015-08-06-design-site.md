@@ -9,6 +9,9 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
+> 简约风格Android图标， 材料设计可调阴影
+
 #### [Sketch REPO](https://sketchrepo.com/)
 > Sketch相关资源
 

@@ -9,6 +9,9 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [react-native-Gank](https://github.com/wangdicoder/react-native-Gank)
+> 一款很棒的干货集中营非官方App，React Native实现
+
 #### [mdcc-client](https://github.com/Bob1993/mdcc-client)
 > a react-native client for mdcc
 
