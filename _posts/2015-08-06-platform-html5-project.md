@@ -9,6 +9,9 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [react-native-nike-running](https://github.com/sonnylazuardi/react-native-nike-running)
+> UI & UX Prototype of redesigned Nike+ Running App
+
 #### [react-native-Gank](https://github.com/wangdicoder/react-native-Gank)
 > 一款很棒的干货集中营非官方App，React Native实现
 
