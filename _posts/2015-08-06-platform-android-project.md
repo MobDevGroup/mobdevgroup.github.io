@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [TryGank](https://github.com/AstroGypsophila/TryGank)
+> 干货集中营第三方客户端
+
 #### [remusic](https://github.com/aa112901/remusic)
 > 仿网易云音乐 安卓版，netease android，音乐播放器 在线 下载
 
