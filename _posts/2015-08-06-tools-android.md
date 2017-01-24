@@ -19,7 +19,10 @@ permalink: 'tools/android'
   > 部分开发者之前有基于此开发Android，随着Android Studio的稳定与普及，且后者基于前者基础上开发，所以无需再切换到这个上面上来了。
 
 #### [genymotion](https://www.genymotion.com)
-> genymotion是一套完整的工具，它提供了Android虚拟环境。由于比自带模拟器的速度快而备受开发者喜欢。  
+> genymotion是一套完整的工具，它提供了Android虚拟环境。由于比自带模拟器的速度快而备受开发者喜欢。
+
+#### [IDE主题])(http://color-themes.com/)
+> IDE 各类主题站 
 
 #### [Gradle](http://gradle.org/)
 > Gradle是一种依赖管理工具，基于Groovy语言，面向Java应用为主，它抛弃了基于XML的各种繁琐配置，取而代之的是一种基于Groovy的内部领域特定（DSL）语言。它支持已有的Maven或者Ivy仓库基础建设，有取代Maven之势。
