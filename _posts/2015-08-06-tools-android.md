@@ -22,7 +22,7 @@ permalink: 'tools/android'
 > genymotion是一套完整的工具，它提供了Android虚拟环境。由于比自带模拟器的速度快而备受开发者喜欢。
 
 #### [IDE主题])(http://color-themes.com/)
-> IDE 各类主题站 
+> IDE 各类主题站
 
 #### [Gradle](http://gradle.org/)
 > Gradle是一种依赖管理工具，基于Groovy语言，面向Java应用为主，它抛弃了基于XML的各种繁琐配置，取而代之的是一种基于Groovy的内部领域特定（DSL）语言。它支持已有的Maven或者Ivy仓库基础建设，有取代Maven之势。
@@ -254,6 +254,9 @@ permalink: 'tools/android'
 > 一个支持MarkDown与HTML互转的gradle插件
 
 ### Android Studio插件
+
+#### [ApkMultiChannel Plugin](https://github.com/nukc/ApkMultiChannelPlugin)
+> 这是一个为了方便 Android 多渠道打包的 Android Studio / IDEA 插件,支持v2签名：jarsigner 和 apksigner,支持2种渠道打包方式:美团的方式和packer-ng-plugin的方式
 
 #### [TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin)
 > IntelliJ IDEA/Android Studio 翻译插件，支持中英互译、单词朗读
