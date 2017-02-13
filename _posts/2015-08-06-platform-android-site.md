@@ -181,6 +181,9 @@ permalink: 'platform/android/resources'
 #### [Linux命令学习网站](http://explainshell.com/)
 > Linux命令学习网站
 
+#### [GitLogs](http://www.gitlogs.com/)
+> 一个支持订阅GitHub流行趋势库的网站
+
 ### Android源码站
 
 #### [codota](http://www.codota.com/)
