@@ -9,6 +9,12 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp)
+> 用vuejs来实现的网易云音乐项目
+
+#### [vue2-elm](https://github.com/bailicangdu/vue2-elm)
+> 基于 vue2 + vue-router2 + vuex + webpack + ES6/7 + sass 重写 饿了么 webapp
+
 #### [react-native-nike-running](https://github.com/sonnylazuardi/react-native-nike-running)
 > UI & UX Prototype of redesigned Nike+ Running App
 
