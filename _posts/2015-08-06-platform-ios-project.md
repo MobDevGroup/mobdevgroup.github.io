@@ -9,6 +9,9 @@ permalink: 'platform/ios/project'
 
 ### 开源项目
 
+#### [AppScreenshots](https://github.com/6ag/AppScreenshots)
+> app开发者专用应用商店截图工具
+
 #### [Gankee](https://github.com/Wildog/Gankee)
 > 可能是 iOS 上最好用的 Gank.io 客户端
 
