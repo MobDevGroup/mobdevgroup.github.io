@@ -9,6 +9,9 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [CodePen](http://codepen.io/)
+> 能在上面分享和找到出色的设计，还会有其他开发者为你提出建议。
+
 #### [Android Material 材料风格图标LOGO生成器](http://jaqen.me/mdpub/)
 > 简约风格Android图标， 材料设计可调阴影
 

@@ -9,6 +9,9 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [react-conf-app](https://github.com/Thinkmill/react-conf-app)
+> React Conf 2017 Companion App - built with React Native
+
 #### [NeteaseCloudWebApp](https://github.com/javaSwing/NeteaseCloudWebApp)
 > 用vuejs来实现的网易云音乐项目
 
