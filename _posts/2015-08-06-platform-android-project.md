@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [Phonograph](https://github.com/kabouzeid/Phonograph)
+> A material designed music player for Android
+
 #### [Shuttle](https://github.com/timusus/Shuttle)
 > Shuttle音乐播放器
 
