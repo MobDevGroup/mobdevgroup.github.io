@@ -280,6 +280,9 @@ permalink: 'tools/assistant'
 
 ### 其它
 
+#### [Color Themes](http://color-themes.com/)
+> IDE 主题站
+
 #### [alfred-workflows](https://github.com/willfarrell/alfred-workflows)
 > 给程序员的Alfred Workflows
 

@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [Espresso](https://github.com/TonnyL/Espresso)
+> Espresso is an express delivery tracking app designed with Material Design style, built on MVP(Model-View-Presenter) architecture with RxJava2, Retrofit2, Realm database and ZXing.
+
 #### [Phonograph](https://github.com/kabouzeid/Phonograph)
 > A material designed music player for Android
 
