@@ -27,7 +27,7 @@
           <script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
           <script>
           var cloudTieConfig = {
-          url: document.location.href,
+          url: "{{ site.path }}/{{page.permalink}}",
           sourceId: "{{page.permalink}}",
           productKey: "a8bbb5e5f553429aa55254cb7af6bdf6",
           target: "cloud-tie-wrapper"
