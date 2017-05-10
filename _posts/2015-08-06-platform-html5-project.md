@@ -9,6 +9,9 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [VueMusic-PC](https://github.com/Reusjs/VueMusic-PC)
+> Vue.js高还原网易云音乐系列-PC端的实现
+
 #### [TimeCat](https://github.com/hicoldcat/TimeCat)
 > 基于Vue2.0+vuex+vue-router+axios+less的图片社交分享App
 
