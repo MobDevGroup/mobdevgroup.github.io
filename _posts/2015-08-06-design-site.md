@@ -9,6 +9,9 @@ permalink: 'design/site'
 
 ### 移动设计资源站
 
+#### [Sketch.im](http://sketch.im/)
+> Sketch资源站
+
 #### [CodePen](http://codepen.io/)
 > 能在上面分享和找到出色的设计，还会有其他开发者为你提出建议。
 

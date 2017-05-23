@@ -283,6 +283,12 @@ permalink: 'tools/assistant'
 
 ### 其它
 
+#### [vim-adventures](https://vim-adventures.com/)
+> 一个以游戏的方式来练习vim的网站
+
+#### [AngryTools](http://angrytools.com/)
+> 一系列设计的工具集
+
 #### [Color Themes](http://color-themes.com/)
 > IDE 主题站
 

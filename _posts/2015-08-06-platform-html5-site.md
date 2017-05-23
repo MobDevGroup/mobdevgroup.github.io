@@ -9,6 +9,9 @@ permalink: 'platform/html5/resources'
 
 ### 资源工具站
 
+#### [Vuejs CheetSheet](https://vuejs-tips.github.io/cheatsheet/)
+> Vuejs 查询表
+
 #### [React Native中文网](http://reactnative.cn/)
 > React Native中文网
 

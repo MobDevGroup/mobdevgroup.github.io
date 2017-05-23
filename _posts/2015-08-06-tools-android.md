@@ -160,6 +160,9 @@ permalink: 'tools/android'
 
 ### Gradle插件
 
+#### [gradle-android-publisher](https://github.com/bluesliverx/gradle-android-publisher)
+> 一个能帮助发布APK包到Google play的Gradle插件
+
 #### [DiscardFilePlugin](https://github.com/wangjiegulu/DiscardFilePlugin)
 > 用于在编译构建时期忽略清空类和方法的一个Android Gradle插件
 
