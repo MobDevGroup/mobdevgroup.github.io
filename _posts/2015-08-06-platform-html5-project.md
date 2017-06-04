@@ -9,6 +9,12 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [vue-book](https://github.com/percy507/vue-book)
+> 基于MySQL和php 前端采用vue和webpack2的书单应用
+
+#### [Vue-QQMusic](https://github.com/Panda-Hope/vue-qqmusic)
+> 基于Vue全家桶的QQ音乐应用
+
 #### [VueMusic-PC](https://github.com/Reusjs/VueMusic-PC)
 > Vue.js高还原网易云音乐系列-PC端的实现
 
