@@ -9,6 +9,15 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [基于react的影院购票应用](https://github.com/Aaaaaaaty/react_movie)
+> 相关技术栈react redux sass webpack es6
+
+#### [MagicMusic](https://github.com/hzzly/MagicMusic)
+> Vue音乐播放器
+
+#### [tencent-sports](https://github.com/renjie1996/tencent-sports)
+> Vue2.0全家桶仿腾讯体育APP
+
 #### [vue-book](https://github.com/percy507/vue-book)
 > 基于MySQL和php 前端采用vue和webpack2的书单应用
 
