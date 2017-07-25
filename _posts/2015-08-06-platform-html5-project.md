@@ -9,8 +9,11 @@ permalink: 'platform/html5/project'
 
 ### 开源项目
 
+#### [gitbook-reader-rn](https://github.com/le0zh/gitbook-reader-rn)
+> 使用RN开发的gitbook阅读器，可以查看在线的书籍信息，在线阅读和下载。
+
 #### [落网PC客户端](https://github.com/HuQingyang/Luoo.qy)
-> 一个基于 Electron 与 Vue 的落网第三方客户端 
+> 一个基于 Electron 与 Vue 的落网第三方客户端
 
 #### [基于react的影院购票应用](https://github.com/Aaaaaaaty/react_movie)
 > 相关技术栈react redux sass webpack es6

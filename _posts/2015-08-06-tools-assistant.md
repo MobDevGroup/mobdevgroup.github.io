@@ -283,6 +283,9 @@ permalink: 'tools/assistant'
 
 ### 其它
 
+#### [Photopea](https://blog.photopea.com/png-minifier-inside-photopea.html)
+> PNG图片压缩神器
+
 #### [vim-adventures](https://vim-adventures.com/)
 > 一个以游戏的方式来练习vim的网站
 
