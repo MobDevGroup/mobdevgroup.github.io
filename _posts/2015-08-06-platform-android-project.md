@@ -9,6 +9,9 @@ permalink: 'platform/android/project'
 
 ### 开源应用
 
+#### [GankClient-Kotlin](https://github.com/githubwing/GankClient-Kotlin)
+> kotlin实现的干货集中营Android客户端
+
 #### [TouTiao](https://github.com/chaychan/TouTiao)
 > 精仿今日头条
 
