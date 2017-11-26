@@ -9,6 +9,9 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [如何通过饿了么 Node.js 面试](https://elemefe.github.io/node-interview/#/sections/zh-cn/)
+> 饿了么前端写的Nodejs面试指南
+
 #### [我是这样学习前端的](https://github.com/icepy/_posts/issues/39)
 
 #### [构建单页Web应用](https://github.com/xufei/blog/issues/5)

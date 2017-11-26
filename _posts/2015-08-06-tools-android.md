@@ -163,7 +163,6 @@ permalink: 'tools/android'
 #### [AndroidResizer](https://github.com/BlitzKraig/AndroidResizer)
 > Java Desktop app to resize XXXHDPI (or lower) images and sort them into folders automatically.
 
-
 ### Gradle插件
 
 #### [gradle-build-properties-plugin](https://github.com/novoda/gradle-build-properties-plugin)
@@ -278,6 +277,9 @@ permalink: 'tools/android'
 > 一个支持MarkDown与HTML互转的gradle插件
 
 ### Android Studio插件
+
+#### [AndroidSourceViewer](https://github.com/pengwei1024/AndroidSourceViewer)
+> 在线查看 Android 和 Java 指定版本源码插件
 
 #### [ok-gradle](https://github.com/scana/ok-gradle)
 > 用于快速搜索 maven 库引用
@@ -568,3 +570,8 @@ permalink: 'tools/android'
 
 #### [SQLite Viewer](http://inloop.github.io/sqlite-viewer/)
 > View SQLite file online
+
+### 其他
+
+#### [Takt](https://github.com/wasabeef/Takt)
+> 使用Choreographer来测量App的FPS(每秒显示帧数)的工具库

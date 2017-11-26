@@ -9,6 +9,15 @@ permalink: 'platform/html5/resources'
 
 ### 资源工具站
 
+#### [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+> 现代工程中经常遇到的Javascript知识速查表
+
+#### [streamify-your-node-program](https://github.com/zoubin/streamify-your-node-program)
+> 对Node.js中 stream模块的学习积累和理解
+
+#### [JavaScript Promise迷你书](http://liubin.org/promises-book/)
+> JavaScript Promise迷你书
+
 #### [Vuejs CheetSheet](https://vuejs-tips.github.io/cheatsheet/)
 > Vuejs 查询表
 
