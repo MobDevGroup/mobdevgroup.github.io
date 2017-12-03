@@ -179,6 +179,9 @@ permalink: 'design/site'
 #### [tinypng](https://tinypng.com/)
 > 在线png图片压缩网站。
 
+#### [upng](http://upng.photopea.com/)
+> 另一个在线图片压缩网站，相对于tinypng，图片压缩率更好，也支持尺寸调节
+
 ####  [iconstore](http://iconstore.co/)
 > 这里可下载来自顶尖设计师设计的图标, 量非常多, 且全部免费。
 
