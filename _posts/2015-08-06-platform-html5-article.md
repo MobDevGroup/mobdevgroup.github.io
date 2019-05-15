@@ -9,6 +9,10 @@ permalink: 'platform/html5/article'
 
 ### 资源文章
 
+#### [YOU MIGHT NOT NEED JQUERY](http://youmightnotneedjquery.com/)
+
+#### [大前端的技术原理和变迁史](https://juejin.im/post/5b5adc9b6fb9a04f9244555d)
+
 #### [如何通过饿了么 Node.js 面试](https://elemefe.github.io/node-interview/#/sections/zh-cn/)
 > 饿了么前端写的Nodejs面试指南
 

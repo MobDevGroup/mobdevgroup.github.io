@@ -9,6 +9,15 @@ permalink: 'platform/html5/resources'
 
 ### 资源工具站
 
+#### [印记中文](https://docschina.org/)
+> 前端技术文档翻译参考站
+
+#### [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/)
+> Vue.js 技术揭秘
+
+#### [Vue技术内幕](http://hcysun.me/vue-design/)
+> Vue技术内幕
+
 #### [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
 > 现代工程中经常遇到的Javascript知识速查表
 

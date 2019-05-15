@@ -183,6 +183,9 @@ permalink: 'development/github'
 
 ### 其它部分
 
+#### [linux-command](https://wangchujiang.com/linux-command/)
+> Linux常用命令搜索
+
 #### [DockerCheatSheet](https://github.com/eon01/DockerCheatSheet)
 > Docker 速查手册
 

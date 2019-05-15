@@ -324,6 +324,8 @@ permalink: 'platform/android/article'
 
 ### 其它
 
+#### [Swift is like Kotlin](http://nilhcem.com/swift-is-like-kotlin/)
+
 #### [在WebView中如何让JS与Java安全地互相调用](http://www.pedant.cn/2014/07/04/webview-js-java-interface-research/)
 
 #### [Launcher系列文章](http://www.codemx.cn/tags/Launcher/)

@@ -9,6 +9,9 @@ permalink: 'platform/ios/resources'
 
 ### iOS资源站
 
+#### [swift翻译](https://swiftgg.gitbook.io/swift/)
+> swift官方网站翻译版本
+
 #### [swift官方站](https://swift.org/)
 > 苹果官方站
 
