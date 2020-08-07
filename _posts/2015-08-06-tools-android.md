@@ -571,6 +571,9 @@ permalink: 'tools/android'
 #### [SQLite Viewer](http://inloop.github.io/sqlite-viewer/)
 > View SQLite file online
 
+#### [SQLite browser](https://extendsclass.com/sqlite-browser.html)
+> View, edit and share SQLite file online
+
 ### 其他
 
 #### [Takt](https://github.com/wasabeef/Takt)
